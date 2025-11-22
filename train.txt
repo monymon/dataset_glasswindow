@@ -1,0 +1,1715 @@
+/home/monielly/facadeglass_dataset/train/facade- (274).png
+/home/monielly/facadeglass_dataset/train/facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade- (665).png
+/home/monielly/facadeglass_dataset/train/facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade- (243).png
+/home/monielly/facadeglass_dataset/train/facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_402.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade- (453)(1).png
+/home/monielly/facadeglass_dataset/train/facade- (735).png
+/home/monielly/facadeglass_dataset/train/facade- (521).png
+/home/monielly/facadeglass_dataset/train/facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (703).png
+/home/monielly/facadeglass_dataset/train/facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade- (693).png
+/home/monielly/facadeglass_dataset/train/facade- (545).png
+/home/monielly/facadeglass_dataset/train/facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade- (221).png
+/home/monielly/facadeglass_dataset/train/facade- (77).png
+/home/monielly/facadeglass_dataset/train/facade- (83).png
+/home/monielly/facadeglass_dataset/train/facade- (28).png
+/home/monielly/facadeglass_dataset/train/facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade- (688).png
+/home/monielly/facadeglass_dataset/train/aug_2_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade- (22).png
+/home/monielly/facadeglass_dataset/train/facade- (178).png
+/home/monielly/facadeglass_dataset/train/facade_168.jpg
+/home/monielly/facadeglass_dataset/train/facade_176.jpg
+/home/monielly/facadeglass_dataset/train/facade- (660).png
+/home/monielly/facadeglass_dataset/train/facade- (445).png
+/home/monielly/facadeglass_dataset/train/facade- (89).png
+/home/monielly/facadeglass_dataset/train/facade_623.jpg
+/home/monielly/facadeglass_dataset/train/facade- (298).png
+/home/monielly/facadeglass_dataset/train/facade- (570).png
+/home/monielly/facadeglass_dataset/train/facade_616.jpg
+/home/monielly/facadeglass_dataset/train/facade- (562).png
+/home/monielly/facadeglass_dataset/train/aug_3_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade_664.jpg
+/home/monielly/facadeglass_dataset/train/facade- (748).png
+/home/monielly/facadeglass_dataset/train/facade_529.jpg
+/home/monielly/facadeglass_dataset/train/facade- (13).png
+/home/monielly/facadeglass_dataset/train/facade- (713).png
+/home/monielly/facadeglass_dataset/train/facade_486.jpg
+/home/monielly/facadeglass_dataset/train/facade_757.jpg
+/home/monielly/facadeglass_dataset/train/facade_263.jpg
+/home/monielly/facadeglass_dataset/train/facade_252.jpg
+/home/monielly/facadeglass_dataset/train/facade_715.jpg
+/home/monielly/facadeglass_dataset/train/facade- (409).png
+/home/monielly/facadeglass_dataset/train/facade_457.jpg
+/home/monielly/facadeglass_dataset/train/facade- (450).png
+/home/monielly/facadeglass_dataset/train/facade- (36).png
+/home/monielly/facadeglass_dataset/train/facade_706.jpg
+/home/monielly/facadeglass_dataset/train/facade_227.jpg
+/home/monielly/facadeglass_dataset/train/facade_304.jpg
+/home/monielly/facadeglass_dataset/train/facade_324.jpg
+/home/monielly/facadeglass_dataset/train/aug_0_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade- (440).png
+/home/monielly/facadeglass_dataset/train/facade_492.jpg
+/home/monielly/facadeglass_dataset/train/facade- (400).png
+/home/monielly/facadeglass_dataset/train/facade_392.jpg
+/home/monielly/facadeglass_dataset/train/facade_113.jpg
+/home/monielly/facadeglass_dataset/train/facade_384.jpg
+/home/monielly/facadeglass_dataset/train/facade_203.jpg
+/home/monielly/facadeglass_dataset/train/facade- (674).png
+/home/monielly/facadeglass_dataset/train/facade_299.jpg
+/home/monielly/facadeglass_dataset/train/facade- (335).png
+/home/monielly/facadeglass_dataset/train/facade- (41).png
+/home/monielly/facadeglass_dataset/train/facade_508.jpg
+/home/monielly/facadeglass_dataset/train/facade- (616).png
+/home/monielly/facadeglass_dataset/train/facade_648.jpg
+/home/monielly/facadeglass_dataset/train/facade_559.jpg
+/home/monielly/facadeglass_dataset/train/facade- (112).png
+/home/monielly/facadeglass_dataset/train/facade- (189).png
+/home/monielly/facadeglass_dataset/train/aug_5_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade- (366).png
+/home/monielly/facadeglass_dataset/train/facade_37.jpg
+/home/monielly/facadeglass_dataset/train/facade_790.jpg
+/home/monielly/facadeglass_dataset/train/facade- (205).png
+/home/monielly/facadeglass_dataset/train/facade_151.jpg
+/home/monielly/facadeglass_dataset/train/facade_303.jpg
+/home/monielly/facadeglass_dataset/train/facade- (390).png
+/home/monielly/facadeglass_dataset/train/facade- (195).png
+/home/monielly/facadeglass_dataset/train/facade- (96).png
+/home/monielly/facadeglass_dataset/train/facade_702.jpg
+/home/monielly/facadeglass_dataset/train/facade- (613).png
+/home/monielly/facadeglass_dataset/train/facade- (333).png
+/home/monielly/facadeglass_dataset/train/facade- (398).png
+/home/monielly/facadeglass_dataset/train/facade_777.jpg
+/home/monielly/facadeglass_dataset/train/facade- (233).png
+/home/monielly/facadeglass_dataset/train/facade- (601).png
+/home/monielly/facadeglass_dataset/train/facade- (239).png
+/home/monielly/facadeglass_dataset/train/facade_555.jpg
+/home/monielly/facadeglass_dataset/train/facade_240.jpg
+/home/monielly/facadeglass_dataset/train/facade- (34).png
+/home/monielly/facadeglass_dataset/train/facade- (6).png
+/home/monielly/facadeglass_dataset/train/facade_773.jpg
+/home/monielly/facadeglass_dataset/train/facade- (275).png
+/home/monielly/facadeglass_dataset/train/facade_316.jpg
+/home/monielly/facadeglass_dataset/train/facade- (279).png
+/home/monielly/facadeglass_dataset/train/facade- (461).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade_401.jpg
+/home/monielly/facadeglass_dataset/train/facade- (526).png
+/home/monielly/facadeglass_dataset/train/facade_44.jpg
+/home/monielly/facadeglass_dataset/train/facade_95.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade- (525).png
+/home/monielly/facadeglass_dataset/train/facade_454.jpg
+/home/monielly/facadeglass_dataset/train/facade_657.jpg
+/home/monielly/facadeglass_dataset/train/facade- (219).png
+/home/monielly/facadeglass_dataset/train/facade_346.jpg
+/home/monielly/facadeglass_dataset/train/facade- (87).png
+/home/monielly/facadeglass_dataset/train/facade_435.jpg
+/home/monielly/facadeglass_dataset/train/facade_590.jpg
+/home/monielly/facadeglass_dataset/train/facade_763.jpg
+/home/monielly/facadeglass_dataset/train/facade_145.jpg
+/home/monielly/facadeglass_dataset/train/facade- (551).png
+/home/monielly/facadeglass_dataset/train/facade_710.jpg
+/home/monielly/facadeglass_dataset/train/facade- (536).png
+/home/monielly/facadeglass_dataset/train/facade_228.jpg
+/home/monielly/facadeglass_dataset/train/facade_515.jpg
+/home/monielly/facadeglass_dataset/train/facade_155.jpg
+/home/monielly/facadeglass_dataset/train/facade- (281).png
+/home/monielly/facadeglass_dataset/train/facade- (246).png
+/home/monielly/facadeglass_dataset/train/facade- (30).png
+/home/monielly/facadeglass_dataset/train/facade- (678).png
+/home/monielly/facadeglass_dataset/train/facade_622.jpg
+/home/monielly/facadeglass_dataset/train/facade_624.jpg
+/home/monielly/facadeglass_dataset/train/facade- (402).png
+/home/monielly/facadeglass_dataset/train/facade_300.jpg
+/home/monielly/facadeglass_dataset/train/facade- (646).png
+/home/monielly/facadeglass_dataset/train/facade_204.jpg
+/home/monielly/facadeglass_dataset/train/facade- (396).png
+/home/monielly/facadeglass_dataset/train/facade- (273).png
+/home/monielly/facadeglass_dataset/train/facade_318.jpg
+/home/monielly/facadeglass_dataset/train/facade_83.jpg
+/home/monielly/facadeglass_dataset/train/facade_361.jpg
+/home/monielly/facadeglass_dataset/train/facade_166.jpg
+/home/monielly/facadeglass_dataset/train/facade- (715).png
+/home/monielly/facadeglass_dataset/train/facade_295.jpg
+/home/monielly/facadeglass_dataset/train/facade_521.jpg
+/home/monielly/facadeglass_dataset/train/facade_690.jpg
+/home/monielly/facadeglass_dataset/train/facade_611.jpg
+/home/monielly/facadeglass_dataset/train/facade_754.jpg
+/home/monielly/facadeglass_dataset/train/aug_1_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade_219.jpg
+/home/monielly/facadeglass_dataset/train/facade- (113).png
+/home/monielly/facadeglass_dataset/train/facade_704.jpg
+/home/monielly/facadeglass_dataset/train/facade_726.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade_770.jpg
+/home/monielly/facadeglass_dataset/train/facade_469.jpg
+/home/monielly/facadeglass_dataset/train/aug_1_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade- (652).png
+/home/monielly/facadeglass_dataset/train/facade_10.jpg
+/home/monielly/facadeglass_dataset/train/facade- (738).png
+/home/monielly/facadeglass_dataset/train/facade_701.jpg
+/home/monielly/facadeglass_dataset/train/facade- (32).png
+/home/monielly/facadeglass_dataset/train/facade_684.jpg
+/home/monielly/facadeglass_dataset/train/facade- (719).png
+/home/monielly/facadeglass_dataset/train/facade_179.jpg
+/home/monielly/facadeglass_dataset/train/facade- (421).png
+/home/monielly/facadeglass_dataset/train/facade_737.jpg
+/home/monielly/facadeglass_dataset/train/facade_281.jpg
+/home/monielly/facadeglass_dataset/train/facade_413.jpg
+/home/monielly/facadeglass_dataset/train/facade_672.jpg
+/home/monielly/facadeglass_dataset/train/facade- (283).png
+/home/monielly/facadeglass_dataset/train/facade_279.jpg
+/home/monielly/facadeglass_dataset/train/facade_193.jpg
+/home/monielly/facadeglass_dataset/train/facade_425.jpg
+/home/monielly/facadeglass_dataset/train/facade_1.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade_349.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade_417.jpg
+/home/monielly/facadeglass_dataset/train/facade- (685).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (17).png
+/home/monielly/facadeglass_dataset/train/facade_136.jpg
+/home/monielly/facadeglass_dataset/train/facade- (325).png
+/home/monielly/facadeglass_dataset/train/facade- (253).png
+/home/monielly/facadeglass_dataset/train/facade- (175).png
+/home/monielly/facadeglass_dataset/train/facade_65.jpg
+/home/monielly/facadeglass_dataset/train/facade_548.jpg
+/home/monielly/facadeglass_dataset/train/facade_400.jpg
+/home/monielly/facadeglass_dataset/train/facade_627.jpg
+/home/monielly/facadeglass_dataset/train/facade- (224).png
+/home/monielly/facadeglass_dataset/train/facade- (724).png
+/home/monielly/facadeglass_dataset/train/facade- (568).png
+/home/monielly/facadeglass_dataset/train/facade- (277).png
+/home/monielly/facadeglass_dataset/train/facade_473.jpg
+/home/monielly/facadeglass_dataset/train/facade- (53).png
+/home/monielly/facadeglass_dataset/train/facade_601.jpg
+/home/monielly/facadeglass_dataset/train/facade- (71).png
+/home/monielly/facadeglass_dataset/train/facade_673.jpg
+/home/monielly/facadeglass_dataset/train/facade- (116).png
+/home/monielly/facadeglass_dataset/train/facade_732.jpg
+/home/monielly/facadeglass_dataset/train/facade- (336).png
+/home/monielly/facadeglass_dataset/train/facade_544.jpg
+/home/monielly/facadeglass_dataset/train/facade- (501).png
+/home/monielly/facadeglass_dataset/train/facade_138.jpg
+/home/monielly/facadeglass_dataset/train/facade_257.jpg
+/home/monielly/facadeglass_dataset/train/facade_525.jpg
+/home/monielly/facadeglass_dataset/train/facade- (340).png
+/home/monielly/facadeglass_dataset/train/facade_591.jpg
+/home/monielly/facadeglass_dataset/train/facade- (14).png
+/home/monielly/facadeglass_dataset/train/facade- (608).png
+/home/monielly/facadeglass_dataset/train/facade- (109).png
+/home/monielly/facadeglass_dataset/train/facade- (207).png
+/home/monielly/facadeglass_dataset/train/facade_496.jpg
+/home/monielly/facadeglass_dataset/train/facade- (16).png
+/home/monielly/facadeglass_dataset/train/facade_610.jpg
+/home/monielly/facadeglass_dataset/train/facade_147.jpg
+/home/monielly/facadeglass_dataset/train/facade- (394).png
+/home/monielly/facadeglass_dataset/train/facade_343.jpg
+/home/monielly/facadeglass_dataset/train/facade- (190).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade_189.jpg
+/home/monielly/facadeglass_dataset/train/facade- (220).png
+/home/monielly/facadeglass_dataset/train/facade_177.jpg
+/home/monielly/facadeglass_dataset/train/facade- (502).png
+/home/monielly/facadeglass_dataset/train/facade_721.jpg
+/home/monielly/facadeglass_dataset/train/facade_380.jpg
+/home/monielly/facadeglass_dataset/train/aug_8_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade- (378).png
+/home/monielly/facadeglass_dataset/train/facade_386.jpg
+/home/monielly/facadeglass_dataset/train/facade_800.jpg
+/home/monielly/facadeglass_dataset/train/facade- (329).png
+/home/monielly/facadeglass_dataset/train/facade_256.jpg
+/home/monielly/facadeglass_dataset/train/facade- (541).png
+/home/monielly/facadeglass_dataset/train/facade_381.jpg
+/home/monielly/facadeglass_dataset/train/facade- (640).png
+/home/monielly/facadeglass_dataset/train/facade_792.jpg
+/home/monielly/facadeglass_dataset/train/facade_532.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade_499.jpg
+/home/monielly/facadeglass_dataset/train/facade- (120).png
+/home/monielly/facadeglass_dataset/train/facade- (199).png
+/home/monielly/facadeglass_dataset/train/facade- (334).png
+/home/monielly/facadeglass_dataset/train/facade- (482).png
+/home/monielly/facadeglass_dataset/train/aug_5_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade- (722).png
+/home/monielly/facadeglass_dataset/train/facade- (343).png
+/home/monielly/facadeglass_dataset/train/facade- (469).png
+/home/monielly/facadeglass_dataset/train/facade_360.jpg
+/home/monielly/facadeglass_dataset/train/facade- (276).png
+/home/monielly/facadeglass_dataset/train/facade_488.jpg
+/home/monielly/facadeglass_dataset/train/facade_241.jpg
+/home/monielly/facadeglass_dataset/train/facade_153.jpg
+/home/monielly/facadeglass_dataset/train/facade_437.jpg
+/home/monielly/facadeglass_dataset/train/facade_537.jpg
+/home/monielly/facadeglass_dataset/train/facade_470.jpg
+/home/monielly/facadeglass_dataset/train/facade- (503).png
+/home/monielly/facadeglass_dataset/train/facade_424.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade- (714).png
+/home/monielly/facadeglass_dataset/train/facade_403.jpg
+/home/monielly/facadeglass_dataset/train/facade- (305).png
+/home/monielly/facadeglass_dataset/train/facade_658.jpg
+/home/monielly/facadeglass_dataset/train/facade- (420).png
+/home/monielly/facadeglass_dataset/train/facade_618.jpg
+/home/monielly/facadeglass_dataset/train/facade_595.jpg
+/home/monielly/facadeglass_dataset/train/facade_348.jpg
+/home/monielly/facadeglass_dataset/train/facade- (572).png
+/home/monielly/facadeglass_dataset/train/facade- (327).png
+/home/monielly/facadeglass_dataset/train/facade_320.jpg
+/home/monielly/facadeglass_dataset/train/facade_804.jpg
+/home/monielly/facadeglass_dataset/train/facade_410.jpg
+/home/monielly/facadeglass_dataset/train/facade- (434).png
+/home/monielly/facadeglass_dataset/train/facade_568.jpg
+/home/monielly/facadeglass_dataset/train/facade_163.jpg
+/home/monielly/facadeglass_dataset/train/facade- (19).png
+/home/monielly/facadeglass_dataset/train/facade- (57).png
+/home/monielly/facadeglass_dataset/train/facade- (365).png
+/home/monielly/facadeglass_dataset/train/facade- (657).png
+/home/monielly/facadeglass_dataset/train/facade- (43).png
+/home/monielly/facadeglass_dataset/train/facade_106.jpg
+/home/monielly/facadeglass_dataset/train/facade_67.jpg
+/home/monielly/facadeglass_dataset/train/facade_739.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (236).png
+/home/monielly/facadeglass_dataset/train/facade- (251).png
+/home/monielly/facadeglass_dataset/train/facade_315.jpg
+/home/monielly/facadeglass_dataset/train/facade_539.jpg
+/home/monielly/facadeglass_dataset/train/facade- (447).png
+/home/monielly/facadeglass_dataset/train/facade- (430).png
+/home/monielly/facadeglass_dataset/train/facade- (225).png
+/home/monielly/facadeglass_dataset/train/facade_543.jpg
+/home/monielly/facadeglass_dataset/train/facade_780.jpg
+/home/monielly/facadeglass_dataset/train/facade- (144).png
+/home/monielly/facadeglass_dataset/train/facade_12.jpg
+/home/monielly/facadeglass_dataset/train/facade_172.jpg
+/home/monielly/facadeglass_dataset/train/facade- (118).png
+/home/monielly/facadeglass_dataset/train/facade- (408).png
+/home/monielly/facadeglass_dataset/train/facade_370.jpg
+/home/monielly/facadeglass_dataset/train/facade- (702).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade_458.jpg
+/home/monielly/facadeglass_dataset/train/facade- (655).png
+/home/monielly/facadeglass_dataset/train/facade- (604).png
+/home/monielly/facadeglass_dataset/train/facade_296.jpg
+/home/monielly/facadeglass_dataset/train/facade_16.jpg
+/home/monielly/facadeglass_dataset/train/facade_270.jpg
+/home/monielly/facadeglass_dataset/train/facade_729.jpg
+/home/monielly/facadeglass_dataset/train/facade_42.jpg
+/home/monielly/facadeglass_dataset/train/facade- (428).png
+/home/monielly/facadeglass_dataset/train/facade_505.jpg
+/home/monielly/facadeglass_dataset/train/facade_791.jpg
+/home/monielly/facadeglass_dataset/train/facade- (381).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (544).png
+/home/monielly/facadeglass_dataset/train/facade_659.jpg
+/home/monielly/facadeglass_dataset/train/facade- (310).png
+/home/monielly/facadeglass_dataset/train/facade- (577).png
+/home/monielly/facadeglass_dataset/train/facade_353.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade- (729).png
+/home/monielly/facadeglass_dataset/train/facade- (370).png
+/home/monielly/facadeglass_dataset/train/facade_465.jpg
+/home/monielly/facadeglass_dataset/train/facade_294.jpg
+/home/monielly/facadeglass_dataset/train/facade_390.jpg
+/home/monielly/facadeglass_dataset/train/facade- (582).png
+/home/monielly/facadeglass_dataset/train/facade- (710).png
+/home/monielly/facadeglass_dataset/train/facade_638.jpg
+/home/monielly/facadeglass_dataset/train/facade- (733).png
+/home/monielly/facadeglass_dataset/train/facade- (494).png
+/home/monielly/facadeglass_dataset/train/facade- (451)(1).png
+/home/monielly/facadeglass_dataset/train/facade- (98).png
+/home/monielly/facadeglass_dataset/train/facade- (737).png
+/home/monielly/facadeglass_dataset/train/facade- (247).png
+/home/monielly/facadeglass_dataset/train/facade_799.jpg
+/home/monielly/facadeglass_dataset/train/facade- (548).png
+/home/monielly/facadeglass_dataset/train/facade_686.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade_743.jpg
+/home/monielly/facadeglass_dataset/train/facade- (269).png
+/home/monielly/facadeglass_dataset/train/facade_645.jpg
+/home/monielly/facadeglass_dataset/train/facade_669.jpg
+/home/monielly/facadeglass_dataset/train/facade- (650).png
+/home/monielly/facadeglass_dataset/train/aug_7_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_733.jpg
+/home/monielly/facadeglass_dataset/train/facade- (191).png
+/home/monielly/facadeglass_dataset/train/aug_7_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade_29.jpg
+/home/monielly/facadeglass_dataset/train/facade_292.jpg
+/home/monielly/facadeglass_dataset/train/facade_190.jpg
+/home/monielly/facadeglass_dataset/train/facade_345.jpg
+/home/monielly/facadeglass_dataset/train/facade- (213).png
+/home/monielly/facadeglass_dataset/train/facade- (349).png
+/home/monielly/facadeglass_dataset/train/facade_774.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade_126.jpg
+/home/monielly/facadeglass_dataset/train/facade_191.jpg
+/home/monielly/facadeglass_dataset/train/facade- (322).png
+/home/monielly/facadeglass_dataset/train/facade- (530).png
+/home/monielly/facadeglass_dataset/train/facade_498.jpg
+/home/monielly/facadeglass_dataset/train/facade_683.jpg
+/home/monielly/facadeglass_dataset/train/facade- (237).png
+/home/monielly/facadeglass_dataset/train/facade- (230).png
+/home/monielly/facadeglass_dataset/train/facade_143.jpg
+/home/monielly/facadeglass_dataset/train/facade_423.jpg
+/home/monielly/facadeglass_dataset/train/facade- (540).png
+/home/monielly/facadeglass_dataset/train/facade- (18).png
+/home/monielly/facadeglass_dataset/train/facade_350.jpg
+/home/monielly/facadeglass_dataset/train/facade- (289).png
+/home/monielly/facadeglass_dataset/train/facade_377.jpg
+/home/monielly/facadeglass_dataset/train/facade- (226).png
+/home/monielly/facadeglass_dataset/train/facade_127.jpg
+/home/monielly/facadeglass_dataset/train/facade- (179).png
+/home/monielly/facadeglass_dataset/train/facade- (134).png
+/home/monielly/facadeglass_dataset/train/facade_297.jpg
+/home/monielly/facadeglass_dataset/train/facade_476.jpg
+/home/monielly/facadeglass_dataset/train/facade_651.jpg
+/home/monielly/facadeglass_dataset/train/facade_11.jpg
+/home/monielly/facadeglass_dataset/train/facade- (490).png
+/home/monielly/facadeglass_dataset/train/facade_131.jpg
+/home/monielly/facadeglass_dataset/train/facade_531.jpg
+/home/monielly/facadeglass_dataset/train/facade- (633).png
+/home/monielly/facadeglass_dataset/train/facade_530.jpg
+/home/monielly/facadeglass_dataset/train/facade_336.jpg
+/home/monielly/facadeglass_dataset/train/facade- (104).png
+/home/monielly/facadeglass_dataset/train/facade- (600).png
+/home/monielly/facadeglass_dataset/train/facade_501.jpg
+/home/monielly/facadeglass_dataset/train/facade- (119).png
+/home/monielly/facadeglass_dataset/train/facade_24.jpg
+/home/monielly/facadeglass_dataset/train/facade_266.jpg
+/home/monielly/facadeglass_dataset/train/facade- (726).png
+/home/monielly/facadeglass_dataset/train/facade_195.jpg
+/home/monielly/facadeglass_dataset/train/facade_183.jpg
+/home/monielly/facadeglass_dataset/train/facade- (478).png
+/home/monielly/facadeglass_dataset/train/facade_4.jpg
+/home/monielly/facadeglass_dataset/train/aug_8_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade_213.jpg
+/home/monielly/facadeglass_dataset/train/facade_158.jpg
+/home/monielly/facadeglass_dataset/train/facade_617.jpg
+/home/monielly/facadeglass_dataset/train/facade_63.jpg
+/home/monielly/facadeglass_dataset/train/facade- (108).png
+/home/monielly/facadeglass_dataset/train/facade- (115).png
+/home/monielly/facadeglass_dataset/train/facade_210.jpg
+/home/monielly/facadeglass_dataset/train/facade- (31).png
+/home/monielly/facadeglass_dataset/train/facade- (59).png
+/home/monielly/facadeglass_dataset/train/aug_9_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade_564.jpg
+/home/monielly/facadeglass_dataset/train/facade_545.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade_621.jpg
+/home/monielly/facadeglass_dataset/train/facade_695.jpg
+/home/monielly/facadeglass_dataset/train/facade- (605).png
+/home/monielly/facadeglass_dataset/train/facade- (342).png
+/home/monielly/facadeglass_dataset/train/facade_182.jpg
+/home/monielly/facadeglass_dataset/train/facade- (489).png
+/home/monielly/facadeglass_dataset/train/facade- (512).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade- (584).png
+/home/monielly/facadeglass_dataset/train/facade- (153).png
+/home/monielly/facadeglass_dataset/train/facade- (176).png
+/home/monielly/facadeglass_dataset/train/facade_327.jpg
+/home/monielly/facadeglass_dataset/train/facade- (473).png
+/home/monielly/facadeglass_dataset/train/facade_109.jpg
+/home/monielly/facadeglass_dataset/train/facade- (95).png
+/home/monielly/facadeglass_dataset/train/aug_9_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade_766.jpg
+/home/monielly/facadeglass_dataset/train/facade- (172).png
+/home/monielly/facadeglass_dataset/train/facade_388.jpg
+/home/monielly/facadeglass_dataset/train/facade_120.jpg
+/home/monielly/facadeglass_dataset/train/facade_786.jpg
+/home/monielly/facadeglass_dataset/train/facade_460.jpg
+/home/monielly/facadeglass_dataset/train/facade- (581).png
+/home/monielly/facadeglass_dataset/train/facade- (553).png
+/home/monielly/facadeglass_dataset/train/facade_94.jpg
+/home/monielly/facadeglass_dataset/train/facade_573.jpg
+/home/monielly/facadeglass_dataset/train/facade_142.jpg
+/home/monielly/facadeglass_dataset/train/facade- (332).png
+/home/monielly/facadeglass_dataset/train/aug_3_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade_767.jpg
+/home/monielly/facadeglass_dataset/train/aug_8_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade- (64).png
+/home/monielly/facadeglass_dataset/train/facade_146.jpg
+/home/monielly/facadeglass_dataset/train/facade_22.jpg
+/home/monielly/facadeglass_dataset/train/facade_718.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade_640.jpg
+/home/monielly/facadeglass_dataset/train/facade- (464).png
+/home/monielly/facadeglass_dataset/train/facade- (391).png
+/home/monielly/facadeglass_dataset/train/facade_707.jpg
+/home/monielly/facadeglass_dataset/train/facade- (282).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade_310.jpg
+/home/monielly/facadeglass_dataset/train/facade- (510).png
+/home/monielly/facadeglass_dataset/train/facade- (117).png
+/home/monielly/facadeglass_dataset/train/facade_344.jpg
+/home/monielly/facadeglass_dataset/train/facade_527.jpg
+/home/monielly/facadeglass_dataset/train/facade- (711).png
+/home/monielly/facadeglass_dataset/train/facade_661.jpg
+/home/monielly/facadeglass_dataset/train/facade_668.jpg
+/home/monielly/facadeglass_dataset/train/facade- (91).png
+/home/monielly/facadeglass_dataset/train/facade- (255).png
+/home/monielly/facadeglass_dataset/train/facade- (664).png
+/home/monielly/facadeglass_dataset/train/facade- (517).png
+/home/monielly/facadeglass_dataset/train/facade- (8).png
+/home/monielly/facadeglass_dataset/train/facade_13.jpg
+/home/monielly/facadeglass_dataset/train/facade_577.jpg
+/home/monielly/facadeglass_dataset/train/facade- (216).png
+/home/monielly/facadeglass_dataset/train/facade_372.jpg
+/home/monielly/facadeglass_dataset/train/facade- (304).png
+/home/monielly/facadeglass_dataset/train/facade- (500).png
+/home/monielly/facadeglass_dataset/train/facade- (697).png
+/home/monielly/facadeglass_dataset/train/facade- (585).png
+/home/monielly/facadeglass_dataset/train/facade_362.jpg
+/home/monielly/facadeglass_dataset/train/facade_355.jpg
+/home/monielly/facadeglass_dataset/train/facade_415.jpg
+/home/monielly/facadeglass_dataset/train/facade- (128).png
+/home/monielly/facadeglass_dataset/train/facade_385.jpg
+/home/monielly/facadeglass_dataset/train/facade_700.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade_196.jpg
+/home/monielly/facadeglass_dataset/train/facade- (185).png
+/home/monielly/facadeglass_dataset/train/facade- (518).png
+/home/monielly/facadeglass_dataset/train/facade- (217).png
+/home/monielly/facadeglass_dataset/train/facade- (752).png
+/home/monielly/facadeglass_dataset/train/facade- (302).png
+/home/monielly/facadeglass_dataset/train/facade_583.jpg
+/home/monielly/facadeglass_dataset/train/facade_85.jpg
+/home/monielly/facadeglass_dataset/train/facade- (24).png
+/home/monielly/facadeglass_dataset/train/facade_159.jpg
+/home/monielly/facadeglass_dataset/train/facade- (620).png
+/home/monielly/facadeglass_dataset/train/facade_759.jpg
+/home/monielly/facadeglass_dataset/train/facade- (46).png
+/home/monielly/facadeglass_dataset/train/facade- (100).png
+/home/monielly/facadeglass_dataset/train/facade_594.jpg
+/home/monielly/facadeglass_dataset/train/facade- (528).png
+/home/monielly/facadeglass_dataset/train/facade_78.jpg
+/home/monielly/facadeglass_dataset/train/facade- (480).png
+/home/monielly/facadeglass_dataset/train/facade_507.jpg
+/home/monielly/facadeglass_dataset/train/facade_206.jpg
+/home/monielly/facadeglass_dataset/train/facade_429.jpg
+/home/monielly/facadeglass_dataset/train/facade_334.jpg
+/home/monielly/facadeglass_dataset/train/facade_716.jpg
+/home/monielly/facadeglass_dataset/train/facade- (263).png
+/home/monielly/facadeglass_dataset/train/facade- (589).png
+/home/monielly/facadeglass_dataset/train/aug_4_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade_161.jpg
+/home/monielly/facadeglass_dataset/train/facade_114.jpg
+/home/monielly/facadeglass_dataset/train/facade- (125).png
+/home/monielly/facadeglass_dataset/train/facade- (651).png
+/home/monielly/facadeglass_dataset/train/facade- (355).png
+/home/monielly/facadeglass_dataset/train/facade- (565).png
+/home/monielly/facadeglass_dataset/train/facade_396.jpg
+/home/monielly/facadeglass_dataset/train/facade- (186).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade- (122).png
+/home/monielly/facadeglass_dataset/train/facade- (379).png
+/home/monielly/facadeglass_dataset/train/facade- (364).png
+/home/monielly/facadeglass_dataset/train/facade- (362).png
+/home/monielly/facadeglass_dataset/train/facade_722.jpg
+/home/monielly/facadeglass_dataset/train/facade_764.jpg
+/home/monielly/facadeglass_dataset/train/facade_103.jpg
+/home/monielly/facadeglass_dataset/train/facade- (669).png
+/home/monielly/facadeglass_dataset/train/facade_528.jpg
+/home/monielly/facadeglass_dataset/train/facade_70.jpg
+/home/monielly/facadeglass_dataset/train/facade- (542).png
+/home/monielly/facadeglass_dataset/train/facade_643.jpg
+/home/monielly/facadeglass_dataset/train/facade- (285).png
+/home/monielly/facadeglass_dataset/train/facade_36.jpg
+/home/monielly/facadeglass_dataset/train/facade- (555).png
+/home/monielly/facadeglass_dataset/train/facade- (339).png
+/home/monielly/facadeglass_dataset/train/facade_723.jpg
+/home/monielly/facadeglass_dataset/train/aug_8_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade_217.jpg
+/home/monielly/facadeglass_dataset/train/facade_685.jpg
+/home/monielly/facadeglass_dataset/train/facade_129.jpg
+/home/monielly/facadeglass_dataset/train/facade- (509).png
+/home/monielly/facadeglass_dataset/train/facade_243.jpg
+/home/monielly/facadeglass_dataset/train/facade- (610).png
+/home/monielly/facadeglass_dataset/train/facade- (520).png
+/home/monielly/facadeglass_dataset/train/facade- (296).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_69.jpg
+/home/monielly/facadeglass_dataset/train/facade- (599).png
+/home/monielly/facadeglass_dataset/train/facade_456.jpg
+/home/monielly/facadeglass_dataset/train/facade- (388).png
+/home/monielly/facadeglass_dataset/train/facade_58.jpg
+/home/monielly/facadeglass_dataset/train/facade_40.jpg
+/home/monielly/facadeglass_dataset/train/aug_0_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade_448.jpg
+/home/monielly/facadeglass_dataset/train/facade- (656).png
+/home/monielly/facadeglass_dataset/train/facade_288.jpg
+/home/monielly/facadeglass_dataset/train/facade_784.jpg
+/home/monielly/facadeglass_dataset/train/facade_639.jpg
+/home/monielly/facadeglass_dataset/train/facade_307.jpg
+/home/monielly/facadeglass_dataset/train/facade_209.jpg
+/home/monielly/facadeglass_dataset/train/facade_517.jpg
+/home/monielly/facadeglass_dataset/train/facade- (126).png
+/home/monielly/facadeglass_dataset/train/facade_140.jpg
+/home/monielly/facadeglass_dataset/train/facade_745.jpg
+/home/monielly/facadeglass_dataset/train/facade_480.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_463.jpg
+/home/monielly/facadeglass_dataset/train/facade- (320).png
+/home/monielly/facadeglass_dataset/train/facade_593.jpg
+/home/monielly/facadeglass_dataset/train/facade- (231).png
+/home/monielly/facadeglass_dataset/train/facade_175.jpg
+/home/monielly/facadeglass_dataset/train/facade_339.jpg
+/home/monielly/facadeglass_dataset/train/facade_597.jpg
+/home/monielly/facadeglass_dataset/train/facade- (188).png
+/home/monielly/facadeglass_dataset/train/facade- (249).png
+/home/monielly/facadeglass_dataset/train/facade_656.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_677.jpg
+/home/monielly/facadeglass_dataset/train/facade_646.jpg
+/home/monielly/facadeglass_dataset/train/facade_637.jpg
+/home/monielly/facadeglass_dataset/train/facade- (484).png
+/home/monielly/facadeglass_dataset/train/facade- (380).png
+/home/monielly/facadeglass_dataset/train/aug_2_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade- (435).png
+/home/monielly/facadeglass_dataset/train/facade_6.jpg
+/home/monielly/facadeglass_dataset/train/facade_285.jpg
+/home/monielly/facadeglass_dataset/train/facade- (200).png
+/home/monielly/facadeglass_dataset/train/facade_793.jpg
+/home/monielly/facadeglass_dataset/train/facade_122.jpg
+/home/monielly/facadeglass_dataset/train/facade_570.jpg
+/home/monielly/facadeglass_dataset/train/facade- (438).png
+/home/monielly/facadeglass_dataset/train/facade_542.jpg
+/home/monielly/facadeglass_dataset/train/facade_740.jpg
+/home/monielly/facadeglass_dataset/train/facade_734.jpg
+/home/monielly/facadeglass_dataset/train/facade_598.jpg
+/home/monielly/facadeglass_dataset/train/facade_101.jpg
+/home/monielly/facadeglass_dataset/train/facade- (709).png
+/home/monielly/facadeglass_dataset/train/facade- (591).png
+/home/monielly/facadeglass_dataset/train/facade_409.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade_475.jpg
+/home/monielly/facadeglass_dataset/train/facade- (416).png
+/home/monielly/facadeglass_dataset/train/facade_54.jpg
+/home/monielly/facadeglass_dataset/train/facade- (156).png
+/home/monielly/facadeglass_dataset/train/facade- (741).png
+/home/monielly/facadeglass_dataset/train/aug_10_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (639).png
+/home/monielly/facadeglass_dataset/train/facade- (492).png
+/home/monielly/facadeglass_dataset/train/facade- (375).png
+/home/monielly/facadeglass_dataset/train/facade- (592).png
+/home/monielly/facadeglass_dataset/train/facade- (406).png
+/home/monielly/facadeglass_dataset/train/facade- (341).png
+/home/monielly/facadeglass_dataset/train/facade- (629).png
+/home/monielly/facadeglass_dataset/train/facade- (270).png
+/home/monielly/facadeglass_dataset/train/facade- (676).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade_382.jpg
+/home/monielly/facadeglass_dataset/train/facade_605.jpg
+/home/monielly/facadeglass_dataset/train/facade- (123).png
+/home/monielly/facadeglass_dataset/train/facade- (177).png
+/home/monielly/facadeglass_dataset/train/facade_504.jpg
+/home/monielly/facadeglass_dataset/train/facade_220.jpg
+/home/monielly/facadeglass_dataset/train/facade_352.jpg
+/home/monielly/facadeglass_dataset/train/facade_606.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade- (708).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade_574.jpg
+/home/monielly/facadeglass_dataset/train/facade- (319).png
+/home/monielly/facadeglass_dataset/train/facade- (471).png
+/home/monielly/facadeglass_dataset/train/facade_762.jpg
+/home/monielly/facadeglass_dataset/train/facade_81.jpg
+/home/monielly/facadeglass_dataset/train/facade_765.jpg
+/home/monielly/facadeglass_dataset/train/facade- (347).png
+/home/monielly/facadeglass_dataset/train/facade_787.jpg
+/home/monielly/facadeglass_dataset/train/facade- (63).png
+/home/monielly/facadeglass_dataset/train/facade_556.jpg
+/home/monielly/facadeglass_dataset/train/facade- (522).png
+/home/monielly/facadeglass_dataset/train/facade- (70).png
+/home/monielly/facadeglass_dataset/train/facade_359.jpg
+/home/monielly/facadeglass_dataset/train/facade_679.jpg
+/home/monielly/facadeglass_dataset/train/facade_636.jpg
+/home/monielly/facadeglass_dataset/train/facade- (74).png
+/home/monielly/facadeglass_dataset/train/facade_414.jpg
+/home/monielly/facadeglass_dataset/train/aug_0_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_649.jpg
+/home/monielly/facadeglass_dataset/train/facade- (732).png
+/home/monielly/facadeglass_dataset/train/facade- (184).png
+/home/monielly/facadeglass_dataset/train/facade_503.jpg
+/home/monielly/facadeglass_dataset/train/facade- (2).png
+/home/monielly/facadeglass_dataset/train/facade- (580).png
+/home/monielly/facadeglass_dataset/train/facade_144.jpg
+/home/monielly/facadeglass_dataset/train/facade_20.jpg
+/home/monielly/facadeglass_dataset/train/facade- (223).png
+/home/monielly/facadeglass_dataset/train/facade_32.jpg
+/home/monielly/facadeglass_dataset/train/facade_185.jpg
+/home/monielly/facadeglass_dataset/train/facade- (198).png
+/home/monielly/facadeglass_dataset/train/facade- (358).png
+/home/monielly/facadeglass_dataset/train/facade- (573).png
+/home/monielly/facadeglass_dataset/train/facade_567.jpg
+/home/monielly/facadeglass_dataset/train/facade- (690).png
+/home/monielly/facadeglass_dataset/train/facade_801.jpg
+/home/monielly/facadeglass_dataset/train/facade_644.jpg
+/home/monielly/facadeglass_dataset/train/facade- (10).png
+/home/monielly/facadeglass_dataset/train/facade_73.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (552).png
+/home/monielly/facadeglass_dataset/train/facade_407.jpg
+/home/monielly/facadeglass_dataset/train/facade_273.jpg
+/home/monielly/facadeglass_dataset/train/facade_8.jpg
+/home/monielly/facadeglass_dataset/train/facade_698.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade- (472).png
+/home/monielly/facadeglass_dataset/train/facade- (385).png
+/home/monielly/facadeglass_dataset/train/facade_15.jpg
+/home/monielly/facadeglass_dataset/train/facade_807.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade- (393).png
+/home/monielly/facadeglass_dataset/train/facade- (452)(1).png
+/home/monielly/facadeglass_dataset/train/facade_275.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade- (667).png
+/home/monielly/facadeglass_dataset/train/facade- (579).png
+/home/monielly/facadeglass_dataset/train/facade- (75).png
+/home/monielly/facadeglass_dataset/train/facade_481.jpg
+/home/monielly/facadeglass_dataset/train/facade- (653).png
+/home/monielly/facadeglass_dataset/train/facade- (211).png
+/home/monielly/facadeglass_dataset/train/facade- (681).png
+/home/monielly/facadeglass_dataset/train/facade- (746).png
+/home/monielly/facadeglass_dataset/train/facade_712.jpg
+/home/monielly/facadeglass_dataset/train/aug_8_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade_558.jpg
+/home/monielly/facadeglass_dataset/train/facade- (623).png
+/home/monielly/facadeglass_dataset/train/facade_28.jpg
+/home/monielly/facadeglass_dataset/train/facade_123.jpg
+/home/monielly/facadeglass_dataset/train/facade- (575).png
+/home/monielly/facadeglass_dataset/train/facade- (183).png
+/home/monielly/facadeglass_dataset/train/facade_188.jpg
+/home/monielly/facadeglass_dataset/train/facade- (94).png
+/home/monielly/facadeglass_dataset/train/facade_642.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade_474.jpg
+/home/monielly/facadeglass_dataset/train/facade- (654).png
+/home/monielly/facadeglass_dataset/train/facade_794.jpg
+/home/monielly/facadeglass_dataset/train/facade_692.jpg
+/home/monielly/facadeglass_dataset/train/facade- (677).png
+/home/monielly/facadeglass_dataset/train/facade_363.jpg
+/home/monielly/facadeglass_dataset/train/facade_286.jpg
+/home/monielly/facadeglass_dataset/train/facade_277.jpg
+/home/monielly/facadeglass_dataset/train/facade- (201).png
+/home/monielly/facadeglass_dataset/train/facade- (121).png
+/home/monielly/facadeglass_dataset/train/facade_510.jpg
+/home/monielly/facadeglass_dataset/train/facade_500.jpg
+/home/monielly/facadeglass_dataset/train/facade_614.jpg
+/home/monielly/facadeglass_dataset/train/facade- (614).png
+/home/monielly/facadeglass_dataset/train/facade- (7).png
+/home/monielly/facadeglass_dataset/train/facade_714.jpg
+/home/monielly/facadeglass_dataset/train/facade- (106).png
+/home/monielly/facadeglass_dataset/train/facade- (543).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (696).png
+/home/monielly/facadeglass_dataset/train/facade- (425).png
+/home/monielly/facadeglass_dataset/train/facade_419.jpg
+/home/monielly/facadeglass_dataset/train/facade_21.jpg
+/home/monielly/facadeglass_dataset/train/facade_776.jpg
+/home/monielly/facadeglass_dataset/train/facade_708.jpg
+/home/monielly/facadeglass_dataset/train/facade- (444).png
+/home/monielly/facadeglass_dataset/train/facade_311.jpg
+/home/monielly/facadeglass_dataset/train/facade- (204).png
+/home/monielly/facadeglass_dataset/train/facade- (61).png
+/home/monielly/facadeglass_dataset/train/facade- (643).png
+/home/monielly/facadeglass_dataset/train/aug_4_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade_259.jpg
+/home/monielly/facadeglass_dataset/train/facade_2.jpg
+/home/monielly/facadeglass_dataset/train/facade- (15).png
+/home/monielly/facadeglass_dataset/train/facade- (602).png
+/home/monielly/facadeglass_dataset/train/facade_394.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade_736.jpg
+/home/monielly/facadeglass_dataset/train/facade- (519).png
+/home/monielly/facadeglass_dataset/train/facade- (158).png
+/home/monielly/facadeglass_dataset/train/facade_305.jpg
+/home/monielly/facadeglass_dataset/train/facade- (48).png
+/home/monielly/facadeglass_dataset/train/facade- (271).png
+/home/monielly/facadeglass_dataset/train/facade_139.jpg
+/home/monielly/facadeglass_dataset/train/facade_416.jpg
+/home/monielly/facadeglass_dataset/train/facade- (265).png
+/home/monielly/facadeglass_dataset/train/facade_284.jpg
+/home/monielly/facadeglass_dataset/train/facade- (139).png
+/home/monielly/facadeglass_dataset/train/facade_526.jpg
+/home/monielly/facadeglass_dataset/train/facade- (244).png
+/home/monielly/facadeglass_dataset/train/facade_418.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (145).png
+/home/monielly/facadeglass_dataset/train/facade- (294).png
+/home/monielly/facadeglass_dataset/train/facade_169.jpg
+/home/monielly/facadeglass_dataset/train/facade- (162).png
+/home/monielly/facadeglass_dataset/train/facade_406.jpg
+/home/monielly/facadeglass_dataset/train/facade_554.jpg
+/home/monielly/facadeglass_dataset/train/facade- (73).png
+/home/monielly/facadeglass_dataset/train/facade- (261).png
+/home/monielly/facadeglass_dataset/train/facade_688.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade_338.jpg
+/home/monielly/facadeglass_dataset/train/facade- (706).png
+/home/monielly/facadeglass_dataset/train/facade- (82).png
+/home/monielly/facadeglass_dataset/train/facade- (313).png
+/home/monielly/facadeglass_dataset/train/facade- (4).png
+/home/monielly/facadeglass_dataset/train/facade_744.jpg
+/home/monielly/facadeglass_dataset/train/facade_735.jpg
+/home/monielly/facadeglass_dataset/train/facade_157.jpg
+/home/monielly/facadeglass_dataset/train/facade_516.jpg
+/home/monielly/facadeglass_dataset/train/facade- (210).png
+/home/monielly/facadeglass_dataset/train/facade_420.jpg
+/home/monielly/facadeglass_dataset/train/facade_255.jpg
+/home/monielly/facadeglass_dataset/train/facade- (331).png
+/home/monielly/facadeglass_dataset/train/facade_592.jpg
+/home/monielly/facadeglass_dataset/train/facade_412.jpg
+/home/monielly/facadeglass_dataset/train/facade_223.jpg
+/home/monielly/facadeglass_dataset/train/facade- (3).png
+/home/monielly/facadeglass_dataset/train/facade_76.jpg
+/home/monielly/facadeglass_dataset/train/facade- (626).png
+/home/monielly/facadeglass_dataset/train/facade_478.jpg
+/home/monielly/facadeglass_dataset/train/facade- (671).png
+/home/monielly/facadeglass_dataset/train/facade- (78).png
+/home/monielly/facadeglass_dataset/train/facade- (309).png
+/home/monielly/facadeglass_dataset/train/facade- (691).png
+/home/monielly/facadeglass_dataset/train/facade- (576).png
+/home/monielly/facadeglass_dataset/train/facade_301.jpg
+/home/monielly/facadeglass_dataset/train/facade- (356).png
+/home/monielly/facadeglass_dataset/train/facade- (450)(1).png
+/home/monielly/facadeglass_dataset/train/facade_178.jpg
+/home/monielly/facadeglass_dataset/train/facade- (218).png
+/home/monielly/facadeglass_dataset/train/aug_7_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade_3.jpg
+/home/monielly/facadeglass_dataset/train/facade- (151).png
+/home/monielly/facadeglass_dataset/train/facade_156.jpg
+/home/monielly/facadeglass_dataset/train/facade- (498).png
+/home/monielly/facadeglass_dataset/train/facade- (424).png
+/home/monielly/facadeglass_dataset/train/facade- (619).png
+/home/monielly/facadeglass_dataset/train/facade_561.jpg
+/home/monielly/facadeglass_dataset/train/facade_446.jpg
+/home/monielly/facadeglass_dataset/train/facade- (556).png
+/home/monielly/facadeglass_dataset/train/facade- (328).png
+/home/monielly/facadeglass_dataset/train/facade_795.jpg
+/home/monielly/facadeglass_dataset/train/facade_797.jpg
+/home/monielly/facadeglass_dataset/train/facade_422.jpg
+/home/monielly/facadeglass_dataset/train/facade_541.jpg
+/home/monielly/facadeglass_dataset/train/facade_632.jpg
+/home/monielly/facadeglass_dataset/train/facade- (578).png
+/home/monielly/facadeglass_dataset/train/aug_5_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade_547.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade_471.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade- (539).png
+/home/monielly/facadeglass_dataset/train/facade- (5).png
+/home/monielly/facadeglass_dataset/train/facade_89.jpg
+/home/monielly/facadeglass_dataset/train/facade- (712).png
+/home/monielly/facadeglass_dataset/train/facade- (303).png
+/home/monielly/facadeglass_dataset/train/facade- (515).png
+/home/monielly/facadeglass_dataset/train/facade- (455).png
+/home/monielly/facadeglass_dataset/train/facade_464.jpg
+/home/monielly/facadeglass_dataset/train/facade- (632).png
+/home/monielly/facadeglass_dataset/train/facade_447.jpg
+/home/monielly/facadeglass_dataset/train/facade- (397).png
+/home/monielly/facadeglass_dataset/train/facade- (462).png
+/home/monielly/facadeglass_dataset/train/facade- (457).png
+/home/monielly/facadeglass_dataset/train/facade- (666).png
+/home/monielly/facadeglass_dataset/train/facade_514.jpg
+/home/monielly/facadeglass_dataset/train/facade_445.jpg
+/home/monielly/facadeglass_dataset/train/facade_235.jpg
+/home/monielly/facadeglass_dataset/train/facade_633.jpg
+/home/monielly/facadeglass_dataset/train/facade- (399).png
+/home/monielly/facadeglass_dataset/train/facade- (60).png
+/home/monielly/facadeglass_dataset/train/facade- (101).png
+/home/monielly/facadeglass_dataset/train/facade_596.jpg
+/home/monielly/facadeglass_dataset/train/facade- (293).png
+/home/monielly/facadeglass_dataset/train/facade_806.jpg
+/home/monielly/facadeglass_dataset/train/facade- (418).png
+/home/monielly/facadeglass_dataset/train/facade_513.jpg
+/home/monielly/facadeglass_dataset/train/facade_691.jpg
+/home/monielly/facadeglass_dataset/train/facade- (470).png
+/home/monielly/facadeglass_dataset/train/facade_681.jpg
+/home/monielly/facadeglass_dataset/train/facade- (648).png
+/home/monielly/facadeglass_dataset/train/facade- (241).png
+/home/monielly/facadeglass_dataset/train/facade- (571).png
+/home/monielly/facadeglass_dataset/train/facade- (155).png
+/home/monielly/facadeglass_dataset/train/facade_738.jpg
+/home/monielly/facadeglass_dataset/train/facade- (227).png
+/home/monielly/facadeglass_dataset/train/facade_566.jpg
+/home/monielly/facadeglass_dataset/train/facade- (506).png
+/home/monielly/facadeglass_dataset/train/facade- (516).png
+/home/monielly/facadeglass_dataset/train/facade- (404).png
+/home/monielly/facadeglass_dataset/train/facade- (130).png
+/home/monielly/facadeglass_dataset/train/facade- (45)(1).png
+/home/monielly/facadeglass_dataset/train/facade_117.jpg
+/home/monielly/facadeglass_dataset/train/facade_468.jpg
+/home/monielly/facadeglass_dataset/train/facade_7.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade- (171).png
+/home/monielly/facadeglass_dataset/train/facade- (417).png
+/home/monielly/facadeglass_dataset/train/facade_49.jpg
+/home/monielly/facadeglass_dataset/train/facade_387.jpg
+/home/monielly/facadeglass_dataset/train/aug_0_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade- (717).png
+/home/monielly/facadeglass_dataset/train/0 (1).jpg
+/home/monielly/facadeglass_dataset/train/facade_575.jpg
+/home/monielly/facadeglass_dataset/train/facade- (238).png
+/home/monielly/facadeglass_dataset/train/facade- (66).png
+/home/monielly/facadeglass_dataset/train/facade- (439).png
+/home/monielly/facadeglass_dataset/train/facade- (395).png
+/home/monielly/facadeglass_dataset/train/facade- (383).png
+/home/monielly/facadeglass_dataset/train/facade_619.jpg
+/home/monielly/facadeglass_dataset/train/facade_609.jpg
+/home/monielly/facadeglass_dataset/train/facade- (460).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade_160.jpg
+/home/monielly/facadeglass_dataset/train/facade- (180).png
+/home/monielly/facadeglass_dataset/train/facade- (574).png
+/home/monielly/facadeglass_dataset/train/facade- (637).png
+/home/monielly/facadeglass_dataset/train/facade- (692).png
+/home/monielly/facadeglass_dataset/train/facade- (560).png
+/home/monielly/facadeglass_dataset/train/facade_322.jpg
+/home/monielly/facadeglass_dataset/train/facade_165.jpg
+/home/monielly/facadeglass_dataset/train/facade- (682).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (718).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade- (354).png
+/home/monielly/facadeglass_dataset/train/facade- (248).png
+/home/monielly/facadeglass_dataset/train/facade- (49).png
+/home/monielly/facadeglass_dataset/train/facade- (537).png
+/home/monielly/facadeglass_dataset/train/facade- (45).png
+/home/monielly/facadeglass_dataset/train/facade_124.jpg
+/home/monielly/facadeglass_dataset/train/facade- (538).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade_426.jpg
+/home/monielly/facadeglass_dataset/train/facade- (37).png
+/home/monielly/facadeglass_dataset/train/facade- (511).png
+/home/monielly/facadeglass_dataset/train/facade_551.jpg
+/home/monielly/facadeglass_dataset/train/facade_703.jpg
+/home/monielly/facadeglass_dataset/train/facade_186.jpg
+/home/monielly/facadeglass_dataset/train/facade- (569).png
+/home/monielly/facadeglass_dataset/train/facade_778.jpg
+/home/monielly/facadeglass_dataset/train/facade- (39).png
+/home/monielly/facadeglass_dataset/train/facade_444.jpg
+/home/monielly/facadeglass_dataset/train/facade- (306).png
+/home/monielly/facadeglass_dataset/train/facade- (137).png
+/home/monielly/facadeglass_dataset/train/facade_337.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade_35.jpg
+/home/monielly/facadeglass_dataset/train/facade- (751).png
+/home/monielly/facadeglass_dataset/train/facade_75.jpg
+/home/monielly/facadeglass_dataset/train/facade- (403).png
+/home/monielly/facadeglass_dataset/train/facade_713.jpg
+/home/monielly/facadeglass_dataset/train/facade- (311).png
+/home/monielly/facadeglass_dataset/train/facade_494.jpg
+/home/monielly/facadeglass_dataset/train/facade- (716).png
+/home/monielly/facadeglass_dataset/train/facade_451.jpg
+/home/monielly/facadeglass_dataset/train/facade- (641).png
+/home/monielly/facadeglass_dataset/train/facade_746.jpg
+/home/monielly/facadeglass_dataset/train/facade_313.jpg
+/home/monielly/facadeglass_dataset/train/facade_112.jpg
+/home/monielly/facadeglass_dataset/train/facade- (272).png
+/home/monielly/facadeglass_dataset/train/facade- (698).png
+/home/monielly/facadeglass_dataset/train/facade_602.jpg
+/home/monielly/facadeglass_dataset/train/facade- (486).png
+/home/monielly/facadeglass_dataset/train/facade_218.jpg
+/home/monielly/facadeglass_dataset/train/facade- (337).png
+/home/monielly/facadeglass_dataset/train/facade- (212).png
+/home/monielly/facadeglass_dataset/train/facade- (166).png
+/home/monielly/facadeglass_dataset/train/facade- (679).png
+/home/monielly/facadeglass_dataset/train/facade- (111).png
+/home/monielly/facadeglass_dataset/train/facade- (215).png
+/home/monielly/facadeglass_dataset/train/facade- (659).png
+/home/monielly/facadeglass_dataset/train/facade_233.jpg
+/home/monielly/facadeglass_dataset/train/facade- (21).png
+/home/monielly/facadeglass_dataset/train/facade- (168).png
+/home/monielly/facadeglass_dataset/train/facade- (44).png
+/home/monielly/facadeglass_dataset/train/facade- (407).png
+/home/monielly/facadeglass_dataset/train/facade- (689).png
+/home/monielly/facadeglass_dataset/train/aug_6_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade- (527).png
+/home/monielly/facadeglass_dataset/train/facade_431.jpg
+/home/monielly/facadeglass_dataset/train/facade- (143).png
+/home/monielly/facadeglass_dataset/train/aug_7_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade- (684).png
+/home/monielly/facadeglass_dataset/train/facade- (446).png
+/home/monielly/facadeglass_dataset/train/facade_269.jpg
+/home/monielly/facadeglass_dataset/train/facade- (169).png
+/home/monielly/facadeglass_dataset/train/facade_576.jpg
+/home/monielly/facadeglass_dataset/train/facade- (670).png
+/home/monielly/facadeglass_dataset/train/facade_810.jpg
+/home/monielly/facadeglass_dataset/train/facade- (625).png
+/home/monielly/facadeglass_dataset/train/facade_230.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade_308.jpg
+/home/monielly/facadeglass_dataset/train/facade_154.jpg
+/home/monielly/facadeglass_dataset/train/facade- (662).png
+/home/monielly/facadeglass_dataset/train/facade_64.jpg
+/home/monielly/facadeglass_dataset/train/facade_428.jpg
+/home/monielly/facadeglass_dataset/train/facade- (607).png
+/home/monielly/facadeglass_dataset/train/aug_6_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade_553.jpg
+/home/monielly/facadeglass_dataset/train/facade- (384).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (405).png
+/home/monielly/facadeglass_dataset/train/facade_487.jpg
+/home/monielly/facadeglass_dataset/train/facade_80.jpg
+/home/monielly/facadeglass_dataset/train/facade_405.jpg
+/home/monielly/facadeglass_dataset/train/facade- (624).png
+/home/monielly/facadeglass_dataset/train/facade_321.jpg
+/home/monielly/facadeglass_dataset/train/facade- (441).png
+/home/monielly/facadeglass_dataset/train/facade- (165).png
+/home/monielly/facadeglass_dataset/train/facade- (154).png
+/home/monielly/facadeglass_dataset/train/facade_111.jpg
+/home/monielly/facadeglass_dataset/train/facade- (234).png
+/home/monielly/facadeglass_dataset/train/facade- (97).png
+/home/monielly/facadeglass_dataset/train/facade_641.jpg
+/home/monielly/facadeglass_dataset/train/facade_33.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade- (594).png
+/home/monielly/facadeglass_dataset/train/facade- (67).png
+/home/monielly/facadeglass_dataset/train/facade_391.jpg
+/home/monielly/facadeglass_dataset/train/facade- (127).png
+/home/monielly/facadeglass_dataset/train/facade_781.jpg
+/home/monielly/facadeglass_dataset/train/facade_449.jpg
+/home/monielly/facadeglass_dataset/train/facade- (344).png
+/home/monielly/facadeglass_dataset/train/facade_697.jpg
+/home/monielly/facadeglass_dataset/train/facade_585.jpg
+/home/monielly/facadeglass_dataset/train/facade- (508).png
+/home/monielly/facadeglass_dataset/train/facade_214.jpg
+/home/monielly/facadeglass_dataset/train/facade- (58).png
+/home/monielly/facadeglass_dataset/train/facade_121.jpg
+/home/monielly/facadeglass_dataset/train/facade- (728).png
+/home/monielly/facadeglass_dataset/train/facade- (734).png
+/home/monielly/facadeglass_dataset/train/facade_587.jpg
+/home/monielly/facadeglass_dataset/train/facade- (228).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade_53.jpg
+/home/monielly/facadeglass_dataset/train/facade_506.jpg
+/home/monielly/facadeglass_dataset/train/facade- (661).png
+/home/monielly/facadeglass_dataset/train/facade_23.jpg
+/home/monielly/facadeglass_dataset/train/facade- (348).png
+/home/monielly/facadeglass_dataset/train/facade- (415).png
+/home/monielly/facadeglass_dataset/train/facade_670.jpg
+/home/monielly/facadeglass_dataset/train/facade- (26).png
+/home/monielly/facadeglass_dataset/train/facade- (152).png
+/home/monielly/facadeglass_dataset/train/facade- (507).png
+/home/monielly/facadeglass_dataset/train/facade_717.jpg
+/home/monielly/facadeglass_dataset/train/facade_620.jpg
+/home/monielly/facadeglass_dataset/train/aug_0_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade_232.jpg
+/home/monielly/facadeglass_dataset/train/facade_253.jpg
+/home/monielly/facadeglass_dataset/train/facade- (368).png
+/home/monielly/facadeglass_dataset/train/facade_202.jpg
+/home/monielly/facadeglass_dataset/train/facade- (79).png
+/home/monielly/facadeglass_dataset/train/facade- (330).png
+/home/monielly/facadeglass_dataset/train/facade_239.jpg
+/home/monielly/facadeglass_dataset/train/facade- (142).png
+/home/monielly/facadeglass_dataset/train/facade_329.jpg
+/home/monielly/facadeglass_dataset/train/facade_133.jpg
+/home/monielly/facadeglass_dataset/train/facade- (449).png
+/home/monielly/facadeglass_dataset/train/facade- (141).png
+/home/monielly/facadeglass_dataset/train/facade_91.jpg
+/home/monielly/facadeglass_dataset/train/facade_167.jpg
+/home/monielly/facadeglass_dataset/train/facade- (598).png
+/home/monielly/facadeglass_dataset/train/facade- (535).png
+/home/monielly/facadeglass_dataset/train/facade_187.jpg
+/home/monielly/facadeglass_dataset/train/facade_181.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (25).png
+/home/monielly/facadeglass_dataset/train/facade_579.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade_482.jpg
+/home/monielly/facadeglass_dataset/train/facade_19.jpg
+/home/monielly/facadeglass_dataset/train/facade_775.jpg
+/home/monielly/facadeglass_dataset/train/facade_276.jpg
+/home/monielly/facadeglass_dataset/train/facade- (92).png
+/home/monielly/facadeglass_dataset/train/facade_586.jpg
+/home/monielly/facadeglass_dataset/train/facade_395.jpg
+/home/monielly/facadeglass_dataset/train/facade_115.jpg
+/home/monielly/facadeglass_dataset/train/facade- (744).png
+/home/monielly/facadeglass_dataset/train/facade_105.jpg
+/home/monielly/facadeglass_dataset/train/facade_326.jpg
+/home/monielly/facadeglass_dataset/train/facade- (561).png
+/home/monielly/facadeglass_dataset/train/facade- (54).png
+/home/monielly/facadeglass_dataset/train/facade_536.jpg
+/home/monielly/facadeglass_dataset/train/facade- (475).png
+/home/monielly/facadeglass_dataset/train/facade_262.jpg
+/home/monielly/facadeglass_dataset/train/facade_512.jpg
+/home/monielly/facadeglass_dataset/train/facade_291.jpg
+/home/monielly/facadeglass_dataset/train/facade_518.jpg
+/home/monielly/facadeglass_dataset/train/facade_180.jpg
+/home/monielly/facadeglass_dataset/train/facade- (606).png
+/home/monielly/facadeglass_dataset/train/facade- (635).png
+/home/monielly/facadeglass_dataset/train/facade_331.jpg
+/home/monielly/facadeglass_dataset/train/facade_582.jpg
+/home/monielly/facadeglass_dataset/train/facade_550.jpg
+/home/monielly/facadeglass_dataset/train/facade- (150).png
+/home/monielly/facadeglass_dataset/train/facade- (736).png
+/home/monielly/facadeglass_dataset/train/facade- (321).png
+/home/monielly/facadeglass_dataset/train/facade- (497).png
+/home/monielly/facadeglass_dataset/train/facade_809.jpg
+/home/monielly/facadeglass_dataset/train/facade- (257).png
+/home/monielly/facadeglass_dataset/train/aug_2_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade_654.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade- (557).png
+/home/monielly/facadeglass_dataset/train/facade_751.jpg
+/home/monielly/facadeglass_dataset/train/facade- (524).png
+/home/monielly/facadeglass_dataset/train/facade_699.jpg
+/home/monielly/facadeglass_dataset/train/facade_383.jpg
+/home/monielly/facadeglass_dataset/train/facade- (300).png
+/home/monielly/facadeglass_dataset/train/facade_604.jpg
+/home/monielly/facadeglass_dataset/train/facade_50.jpg
+/home/monielly/facadeglass_dataset/train/facade_768.jpg
+/home/monielly/facadeglass_dataset/train/facade- (683).png
+/home/monielly/facadeglass_dataset/train/facade_603.jpg
+/home/monielly/facadeglass_dataset/train/facade_271.jpg
+/home/monielly/facadeglass_dataset/train/facade- (260).png
+/home/monielly/facadeglass_dataset/train/facade- (699).png
+/home/monielly/facadeglass_dataset/train/facade- (627).png
+/home/monielly/facadeglass_dataset/train/facade- (603).png
+/home/monielly/facadeglass_dataset/train/facade_5.jpg
+/home/monielly/facadeglass_dataset/train/facade_753.jpg
+/home/monielly/facadeglass_dataset/train/facade- (84).png
+/home/monielly/facadeglass_dataset/train/facade_260.jpg
+/home/monielly/facadeglass_dataset/train/facade_758.jpg
+/home/monielly/facadeglass_dataset/train/facade_730.jpg
+/home/monielly/facadeglass_dataset/train/facade- (550).png
+/home/monielly/facadeglass_dataset/train/facade_479.jpg
+/home/monielly/facadeglass_dataset/train/facade_211.jpg
+/home/monielly/facadeglass_dataset/train/facade- (138).png
+/home/monielly/facadeglass_dataset/train/facade_711.jpg
+/home/monielly/facadeglass_dataset/train/facade- (458).png
+/home/monielly/facadeglass_dataset/train/facade_251.jpg
+/home/monielly/facadeglass_dataset/train/facade_248.jpg
+/home/monielly/facadeglass_dataset/train/facade_56.jpg
+/home/monielly/facadeglass_dataset/train/facade- (465).png
+/home/monielly/facadeglass_dataset/train/aug_3_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade- (673).png
+/home/monielly/facadeglass_dataset/train/facade_244.jpg
+/home/monielly/facadeglass_dataset/train/facade_234.jpg
+/home/monielly/facadeglass_dataset/train/facade- (680).png
+/home/monielly/facadeglass_dataset/train/aug_9_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade- (609).png
+/home/monielly/facadeglass_dataset/train/facade_55.jpg
+/home/monielly/facadeglass_dataset/train/facade_393.jpg
+/home/monielly/facadeglass_dataset/train/facade- (290).png
+/home/monielly/facadeglass_dataset/train/facade- (631).png
+/home/monielly/facadeglass_dataset/train/facade- (202).png
+/home/monielly/facadeglass_dataset/train/facade- (505).png
+/home/monielly/facadeglass_dataset/train/facade_796.jpg
+/home/monielly/facadeglass_dataset/train/facade- (558).png
+/home/monielly/facadeglass_dataset/train/facade_565.jpg
+/home/monielly/facadeglass_dataset/train/facade_62.jpg
+/home/monielly/facadeglass_dataset/train/facade_607.jpg
+/home/monielly/facadeglass_dataset/train/facade_522.jpg
+/home/monielly/facadeglass_dataset/train/facade_709.jpg
+/home/monielly/facadeglass_dataset/train/facade_17.jpg
+/home/monielly/facadeglass_dataset/train/facade_666.jpg
+/home/monielly/facadeglass_dataset/train/facade- (588).png
+/home/monielly/facadeglass_dataset/train/facade_675.jpg
+/home/monielly/facadeglass_dataset/train/facade_443.jpg
+/home/monielly/facadeglass_dataset/train/facade_655.jpg
+/home/monielly/facadeglass_dataset/train/facade_696.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/aug_1_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade- (559).png
+/home/monielly/facadeglass_dataset/train/facade_254.jpg
+/home/monielly/facadeglass_dataset/train/facade_511.jpg
+/home/monielly/facadeglass_dataset/train/facade_625.jpg
+/home/monielly/facadeglass_dataset/train/facade_752.jpg
+/home/monielly/facadeglass_dataset/train/facade- (586).png
+/home/monielly/facadeglass_dataset/train/facade_571.jpg
+/home/monielly/facadeglass_dataset/train/facade_43.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade_724.jpg
+/home/monielly/facadeglass_dataset/train/facade- (642).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade_432.jpg
+/home/monielly/facadeglass_dataset/train/facade_635.jpg
+/home/monielly/facadeglass_dataset/train/facade- (437).png
+/home/monielly/facadeglass_dataset/train/facade- (353).png
+/home/monielly/facadeglass_dataset/train/facade_411.jpg
+/home/monielly/facadeglass_dataset/train/facade- (749).png
+/home/monielly/facadeglass_dataset/train/facade_783.jpg
+/home/monielly/facadeglass_dataset/train/aug_0_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (23).png
+/home/monielly/facadeglass_dataset/train/facade_208.jpg
+/home/monielly/facadeglass_dataset/train/facade_47.jpg
+/home/monielly/facadeglass_dataset/train/aug_9_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade_272.jpg
+/home/monielly/facadeglass_dataset/train/facade- (731).png
+/home/monielly/facadeglass_dataset/train/facade_280.jpg
+/home/monielly/facadeglass_dataset/train/facade- (242).png
+/home/monielly/facadeglass_dataset/train/facade_314.jpg
+/home/monielly/facadeglass_dataset/train/facade- (350).png
+/home/monielly/facadeglass_dataset/train/aug_10_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade- (132).png
+/home/monielly/facadeglass_dataset/train/facade- (1).png
+/home/monielly/facadeglass_dataset/train/facade_371.jpg
+/home/monielly/facadeglass_dataset/train/facade- (326).png
+/home/monielly/facadeglass_dataset/train/facade- (192).png
+/home/monielly/facadeglass_dataset/train/facade- (146).png
+/home/monielly/facadeglass_dataset/train/facade_125.jpg
+/home/monielly/facadeglass_dataset/train/facade- (299).png
+/home/monielly/facadeglass_dataset/train/facade- (164).png
+/home/monielly/facadeglass_dataset/train/aug_6_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade_626.jpg
+/home/monielly/facadeglass_dataset/train/facade- (423).png
+/home/monielly/facadeglass_dataset/train/facade_631.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade- (56).png
+/home/monielly/facadeglass_dataset/train/facade- (675).png
+/home/monielly/facadeglass_dataset/train/facade- (377).png
+/home/monielly/facadeglass_dataset/train/aug_9_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade_207.jpg
+/home/monielly/facadeglass_dataset/train/facade_756.jpg
+/home/monielly/facadeglass_dataset/train/facade_379.jpg
+/home/monielly/facadeglass_dataset/train/facade- (133).png
+/home/monielly/facadeglass_dataset/train/facade_365.jpg
+/home/monielly/facadeglass_dataset/train/facade- (567).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade- (454).png
+/home/monielly/facadeglass_dataset/train/facade- (442).png
+/home/monielly/facadeglass_dataset/train/facade_389.jpg
+/home/monielly/facadeglass_dataset/train/facade- (590).png
+/home/monielly/facadeglass_dataset/train/facade_755.jpg
+/home/monielly/facadeglass_dataset/train/facade- (85).png
+/home/monielly/facadeglass_dataset/train/facade- (412).png
+/home/monielly/facadeglass_dataset/train/facade_599.jpg
+/home/monielly/facadeglass_dataset/train/facade- (245).png
+/home/monielly/facadeglass_dataset/train/facade_205.jpg
+/home/monielly/facadeglass_dataset/train/facade_87.jpg
+/home/monielly/facadeglass_dataset/train/facade- (103).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade- (523).png
+/home/monielly/facadeglass_dataset/train/facade- (240).png
+/home/monielly/facadeglass_dataset/train/facade- (531).png
+/home/monielly/facadeglass_dataset/train/facade- (182).png
+/home/monielly/facadeglass_dataset/train/facade- (316).png
+/home/monielly/facadeglass_dataset/train/facade- (621).png
+/home/monielly/facadeglass_dataset/train/facade_237.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade- (617).png
+/home/monielly/facadeglass_dataset/train/facade- (256).png
+/home/monielly/facadeglass_dataset/train/facade- (419).png
+/home/monielly/facadeglass_dataset/train/aug_7_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade- (554).png
+/home/monielly/facadeglass_dataset/train/facade_581.jpg
+/home/monielly/facadeglass_dataset/train/facade- (235).png
+/home/monielly/facadeglass_dataset/train/facade- (636).png
+/home/monielly/facadeglass_dataset/train/facade- (88).png
+/home/monielly/facadeglass_dataset/train/facade_225.jpg
+/home/monielly/facadeglass_dataset/train/facade_328.jpg
+/home/monielly/facadeglass_dataset/train/facade- (563).png
+/home/monielly/facadeglass_dataset/train/facade_519.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade_725.jpg
+/home/monielly/facadeglass_dataset/train/facade_563.jpg
+/home/monielly/facadeglass_dataset/train/facade- (496).png
+/home/monielly/facadeglass_dataset/train/facade_803.jpg
+/home/monielly/facadeglass_dataset/train/facade- (208).png
+/home/monielly/facadeglass_dataset/train/facade_46.jpg
+/home/monielly/facadeglass_dataset/train/facade- (647).png
+/home/monielly/facadeglass_dataset/train/facade_483.jpg
+/home/monielly/facadeglass_dataset/train/facade_535.jpg
+/home/monielly/facadeglass_dataset/train/facade_358.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade_660.jpg
+/home/monielly/facadeglass_dataset/train/facade_674.jpg
+/home/monielly/facadeglass_dataset/train/facade_289.jpg
+/home/monielly/facadeglass_dataset/train/facade- (136).png
+/home/monielly/facadeglass_dataset/train/facade_459.jpg
+/home/monielly/facadeglass_dataset/train/facade_264.jpg
+/home/monielly/facadeglass_dataset/train/facade- (252).png
+/home/monielly/facadeglass_dataset/train/facade_421.jpg
+/home/monielly/facadeglass_dataset/train/facade- (618).png
+/home/monielly/facadeglass_dataset/train/facade- (323).png
+/home/monielly/facadeglass_dataset/train/facade- (312).png
+/home/monielly/facadeglass_dataset/train/facade_9.jpg
+/home/monielly/facadeglass_dataset/train/facade- (389).png
+/home/monielly/facadeglass_dataset/train/facade_373.jpg
+/home/monielly/facadeglass_dataset/train/facade- (456).png
+/home/monielly/facadeglass_dataset/train/facade- (481).png
+/home/monielly/facadeglass_dataset/train/facade_680.jpg
+/home/monielly/facadeglass_dataset/train/facade_520.jpg
+/home/monielly/facadeglass_dataset/train/facade- (663).png
+/home/monielly/facadeglass_dataset/train/facade_749.jpg
+/home/monielly/facadeglass_dataset/train/facade_678.jpg
+/home/monielly/facadeglass_dataset/train/facade_192.jpg
+/home/monielly/facadeglass_dataset/train/facade_325.jpg
+/home/monielly/facadeglass_dataset/train/facade_436.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade- (307).png
+/home/monielly/facadeglass_dataset/train/facade- (135).png
+/home/monielly/facadeglass_dataset/train/facade_663.jpg
+/home/monielly/facadeglass_dataset/train/facade_687.jpg
+/home/monielly/facadeglass_dataset/train/facade- (324).png
+/home/monielly/facadeglass_dataset/train/aug_2_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (149).png
+/home/monielly/facadeglass_dataset/train/facade_477.jpg
+/home/monielly/facadeglass_dataset/train/facade- (705).png
+/home/monielly/facadeglass_dataset/train/facade- (42).png
+/home/monielly/facadeglass_dataset/train/aug_3_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade- (477).png
+/home/monielly/facadeglass_dataset/train/facade_110.jpg
+/home/monielly/facadeglass_dataset/train/facade- (12).png
+/home/monielly/facadeglass_dataset/train/aug_10_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade- (105).png
+/home/monielly/facadeglass_dataset/train/facade- (80).png
+/home/monielly/facadeglass_dataset/train/facade- (203).png
+/home/monielly/facadeglass_dataset/train/facade_268.jpg
+/home/monielly/facadeglass_dataset/train/facade- (747).png
+/home/monielly/facadeglass_dataset/train/facade_491.jpg
+/home/monielly/facadeglass_dataset/train/facade_439.jpg
+/home/monielly/facadeglass_dataset/train/aug_0_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade- (52).png
+/home/monielly/facadeglass_dataset/train/facade- (369).png
+/home/monielly/facadeglass_dataset/train/facade_128.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade- (173).png
+/home/monielly/facadeglass_dataset/train/facade_27.jpg
+/home/monielly/facadeglass_dataset/train/facade- (50).png
+/home/monielly/facadeglass_dataset/train/facade- (187).png
+/home/monielly/facadeglass_dataset/train/facade_580.jpg
+/home/monielly/facadeglass_dataset/train/facade- (488).png
+/home/monielly/facadeglass_dataset/train/facade_341.jpg
+/home/monielly/facadeglass_dataset/train/facade- (452).png
+/home/monielly/facadeglass_dataset/train/facade- (695).png
+/home/monielly/facadeglass_dataset/train/facade_258.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade- (259).png
+/home/monielly/facadeglass_dataset/train/facade- (479).png
+/home/monielly/facadeglass_dataset/train/facade_317.jpg
+/home/monielly/facadeglass_dataset/train/facade- (29).png
+/home/monielly/facadeglass_dataset/train/facade- (645).png
+/home/monielly/facadeglass_dataset/train/facade_93.jpg
+/home/monielly/facadeglass_dataset/train/facade- (532).png
+/home/monielly/facadeglass_dataset/train/facade_540.jpg
+/home/monielly/facadeglass_dataset/train/facade- (730).png
+/home/monielly/facadeglass_dataset/train/facade- (214).png
+/home/monielly/facadeglass_dataset/train/facade- (318).png
+/home/monielly/facadeglass_dataset/train/facade_613.jpg
+/home/monielly/facadeglass_dataset/train/aug_7_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade- (267).png
+/home/monielly/facadeglass_dataset/train/facade_705.jpg
+/home/monielly/facadeglass_dataset/train/facade_351.jpg
+/home/monielly/facadeglass_dataset/train/facade- (68).png
+/home/monielly/facadeglass_dataset/train/facade_132.jpg
+/home/monielly/facadeglass_dataset/train/facade_798.jpg
+/home/monielly/facadeglass_dataset/train/facade_283.jpg
+/home/monielly/facadeglass_dataset/train/facade_534.jpg
+/home/monielly/facadeglass_dataset/train/facade- (451).png
+/home/monielly/facadeglass_dataset/train/facade- (467).png
+/home/monielly/facadeglass_dataset/train/facade- (317).png
+/home/monielly/facadeglass_dataset/train/facade- (387).png
+/home/monielly/facadeglass_dataset/train/facade- (493).png
+/home/monielly/facadeglass_dataset/train/facade_312.jpg
+/home/monielly/facadeglass_dataset/train/facade- (33).png
+/home/monielly/facadeglass_dataset/train/facade_466.jpg
+/home/monielly/facadeglass_dataset/train/facade_100.jpg
+/home/monielly/facadeglass_dataset/train/facade_509.jpg
+/home/monielly/facadeglass_dataset/train/facade_25.jpg
+/home/monielly/facadeglass_dataset/train/aug_1_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade_628.jpg
+/home/monielly/facadeglass_dataset/train/facade_588.jpg
+/home/monielly/facadeglass_dataset/train/facade_14.jpg
+/home/monielly/facadeglass_dataset/train/facade_330.jpg
+/home/monielly/facadeglass_dataset/train/facade- (346).png
+/home/monielly/facadeglass_dataset/train/aug_3_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade_356.jpg
+/home/monielly/facadeglass_dataset/train/facade_96.jpg
+/home/monielly/facadeglass_dataset/train/facade- (359).png
+/home/monielly/facadeglass_dataset/train/facade- (174).png
+/home/monielly/facadeglass_dataset/train/facade- (392).png
+/home/monielly/facadeglass_dataset/train/facade- (338).png
+/home/monielly/facadeglass_dataset/train/facade_769.jpg
+/home/monielly/facadeglass_dataset/train/aug_1_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade- (40).png
+/home/monielly/facadeglass_dataset/train/facade- (448).png
+/home/monielly/facadeglass_dataset/train/facade_287.jpg
+/home/monielly/facadeglass_dataset/train/facade_61.jpg
+/home/monielly/facadeglass_dataset/train/facade- (495).png
+/home/monielly/facadeglass_dataset/train/facade- (566).png
+/home/monielly/facadeglass_dataset/train/facade- (668).png
+/home/monielly/facadeglass_dataset/train/facade_74.jpg
+/home/monielly/facadeglass_dataset/train/facade_785.jpg
+/home/monielly/facadeglass_dataset/train/facade_408.jpg
+/home/monielly/facadeglass_dataset/train/facade- (288).png
+/home/monielly/facadeglass_dataset/train/facade_472.jpg
+/home/monielly/facadeglass_dataset/train/aug_1_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade_357.jpg
+/home/monielly/facadeglass_dataset/train/facade_26.jpg
+/home/monielly/facadeglass_dataset/train/facade- (534).png
+/home/monielly/facadeglass_dataset/train/facade_84.jpg
+/home/monielly/facadeglass_dataset/train/facade_772.jpg
+/home/monielly/facadeglass_dataset/train/facade_608.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade_261.jpg
+/home/monielly/facadeglass_dataset/train/facade- (287).png
+/home/monielly/facadeglass_dataset/train/facade- (278).png
+/home/monielly/facadeglass_dataset/train/facade_490.jpg
+/home/monielly/facadeglass_dataset/train/facade- (612).png
+/home/monielly/facadeglass_dataset/train/facade- (745).png
+/home/monielly/facadeglass_dataset/train/facade- (597).png
+/home/monielly/facadeglass_dataset/train/facade- (297).png
+/home/monielly/facadeglass_dataset/train/facade- (529).png
+/home/monielly/facadeglass_dataset/train/facade_727.jpg
+/home/monielly/facadeglass_dataset/train/facade_489.jpg
+/home/monielly/facadeglass_dataset/train/facade- (170).png
+/home/monielly/facadeglass_dataset/train/facade_811.jpg
+/home/monielly/facadeglass_dataset/train/facade- (206).png
+/home/monielly/facadeglass_dataset/train/facade_453.jpg
+/home/monielly/facadeglass_dataset/train/facade- (431).png
+/home/monielly/facadeglass_dataset/train/facade_224.jpg
+/home/monielly/facadeglass_dataset/train/facade- (140).png
+/home/monielly/facadeglass_dataset/train/facade- (649).png
+/home/monielly/facadeglass_dataset/train/facade- (615).png
+/home/monielly/facadeglass_dataset/train/facade- (110).png
+/home/monielly/facadeglass_dataset/train/facade_634.jpg
+/home/monielly/facadeglass_dataset/train/facade_467.jpg
+/home/monielly/facadeglass_dataset/train/facade_184.jpg
+/home/monielly/facadeglass_dataset/train/facade- (374).png
+/home/monielly/facadeglass_dataset/train/facade- (161).png
+/home/monielly/facadeglass_dataset/train/facade- (69).png
+/home/monielly/facadeglass_dataset/train/facade- (386).png
+/home/monielly/facadeglass_dataset/train/facade_719.jpg
+/home/monielly/facadeglass_dataset/train/facade- (739).png
+/home/monielly/facadeglass_dataset/train/facade- (499).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (102).png
+/home/monielly/facadeglass_dataset/train/facade- (723).png
+/home/monielly/facadeglass_dataset/train/aug_7_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade_170.jpg
+/home/monielly/facadeglass_dataset/train/facade- (194).png
+/home/monielly/facadeglass_dataset/train/facade- (266).png
+/home/monielly/facadeglass_dataset/train/facade_104.jpg
+/home/monielly/facadeglass_dataset/train/facade- (129).png
+/home/monielly/facadeglass_dataset/train/facade_442.jpg
+/home/monielly/facadeglass_dataset/train/facade- (429).png
+/home/monielly/facadeglass_dataset/train/facade_615.jpg
+/home/monielly/facadeglass_dataset/train/facade- (197).png
+/home/monielly/facadeglass_dataset/train/facade- (593).png
+/home/monielly/facadeglass_dataset/train/facade- (596).png
+/home/monielly/facadeglass_dataset/train/facade_72.jpg
+/home/monielly/facadeglass_dataset/train/facade_742.jpg
+/home/monielly/facadeglass_dataset/train/facade- (413).png
+/home/monielly/facadeglass_dataset/train/facade- (65).png
+/home/monielly/facadeglass_dataset/train/facade- (687).png
+/home/monielly/facadeglass_dataset/train/facade_59.jpg
+/home/monielly/facadeglass_dataset/train/facade- (376).png
+/home/monielly/facadeglass_dataset/train/aug_5_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/facade- (286).png
+/home/monielly/facadeglass_dataset/train/facade_720.jpg
+/home/monielly/facadeglass_dataset/train/facade- (131).png
+/home/monielly/facadeglass_dataset/train/facade- (382).png
+/home/monielly/facadeglass_dataset/train/facade_48.jpg
+/home/monielly/facadeglass_dataset/train/facade_198.jpg
+/home/monielly/facadeglass_dataset/train/facade_134.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/aug_4_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade- (474).png
+/home/monielly/facadeglass_dataset/train/aug_9_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (549).png
+/home/monielly/facadeglass_dataset/train/facade_97.jpg
+/home/monielly/facadeglass_dataset/train/facade_323.jpg
+/home/monielly/facadeglass_dataset/train/facade- (466).png
+/home/monielly/facadeglass_dataset/train/facade- (254).png
+/home/monielly/facadeglass_dataset/train/facade- (583).png
+/home/monielly/facadeglass_dataset/train/facade_212.jpg
+/home/monielly/facadeglass_dataset/train/facade_748.jpg
+/home/monielly/facadeglass_dataset/train/facade_430.jpg
+/home/monielly/facadeglass_dataset/train/facade_18.jpg
+/home/monielly/facadeglass_dataset/train/facade_265.jpg
+/home/monielly/facadeglass_dataset/train/facade- (411).png
+/home/monielly/facadeglass_dataset/train/facade- (76).png
+/home/monielly/facadeglass_dataset/train/facade- (750).png
+/home/monielly/facadeglass_dataset/train/facade_319.jpg
+/home/monielly/facadeglass_dataset/train/facade_92.jpg
+/home/monielly/facadeglass_dataset/train/facade- (704).png
+/home/monielly/facadeglass_dataset/train/facade- (630).png
+/home/monielly/facadeglass_dataset/train/facade- (291).png
+/home/monielly/facadeglass_dataset/train/facade- (686).png
+/home/monielly/facadeglass_dataset/train/facade_137.jpg
+/home/monielly/facadeglass_dataset/train/facade_90.jpg
+/home/monielly/facadeglass_dataset/train/facade- (401).png
+/home/monielly/facadeglass_dataset/train/facade_364.jpg
+/home/monielly/facadeglass_dataset/train/facade_378.jpg
+/home/monielly/facadeglass_dataset/train/facade- (658).png
+/home/monielly/facadeglass_dataset/train/aug_4_facade_900.jpg
+/home/monielly/facadeglass_dataset/train/facade- (55).png
+/home/monielly/facadeglass_dataset/train/facade_650.jpg
+/home/monielly/facadeglass_dataset/train/facade_86.jpg
+/home/monielly/facadeglass_dataset/train/facade_440.jpg
+/home/monielly/facadeglass_dataset/train/0 (2).jpg
+/home/monielly/facadeglass_dataset/train/facade- (720).png
+/home/monielly/facadeglass_dataset/train/facade- (147).png
+/home/monielly/facadeglass_dataset/train/aug_2_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_693.jpg
+/home/monielly/facadeglass_dataset/train/facade- (268).png
+/home/monielly/facadeglass_dataset/train/facade_51.jpg
+/home/monielly/facadeglass_dataset/train/facade- (547).png
+/home/monielly/facadeglass_dataset/train/facade_152.jpg
+/home/monielly/facadeglass_dataset/train/facade- (644).png
+/home/monielly/facadeglass_dataset/train/facade_731.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_560.jpg
+/home/monielly/facadeglass_dataset/train/facade_485.jpg
+/home/monielly/facadeglass_dataset/train/facade_433.jpg
+/home/monielly/facadeglass_dataset/train/aug_5_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (463).png
+/home/monielly/facadeglass_dataset/train/facade- (262).png
+/home/monielly/facadeglass_dataset/train/facade_135.jpg
+/home/monielly/facadeglass_dataset/train/facade- (35).png
+/home/monielly/facadeglass_dataset/train/facade_789.jpg
+/home/monielly/facadeglass_dataset/train/facade_374.jpg
+/home/monielly/facadeglass_dataset/train/facade_39.jpg
+/home/monielly/facadeglass_dataset/train/facade_671.jpg
+/home/monielly/facadeglass_dataset/train/facade_79.jpg
+/home/monielly/facadeglass_dataset/train/facade- (433).png
+/home/monielly/facadeglass_dataset/train/facade_77.jpg
+/home/monielly/facadeglass_dataset/train/facade- (250).png
+/home/monielly/facadeglass_dataset/train/facade_629.jpg
+/home/monielly/facadeglass_dataset/train/facade- (159).png
+/home/monielly/facadeglass_dataset/train/facade- (357).png
+/home/monielly/facadeglass_dataset/train/facade- (258).png
+/home/monielly/facadeglass_dataset/train/facade_647.jpg
+/home/monielly/facadeglass_dataset/train/facade_375.jpg
+/home/monielly/facadeglass_dataset/train/facade_434.jpg
+/home/monielly/facadeglass_dataset/train/facade_149.jpg
+/home/monielly/facadeglass_dataset/train/facade- (743).png
+/home/monielly/facadeglass_dataset/train/aug_1_facade_398.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade- (157).png
+/home/monielly/facadeglass_dataset/train/facade- (628).png
+/home/monielly/facadeglass_dataset/train/facade_689.jpg
+/home/monielly/facadeglass_dataset/train/facade- (193).png
+/home/monielly/facadeglass_dataset/train/facade_247.jpg
+/home/monielly/facadeglass_dataset/train/facade_66.jpg
+/home/monielly/facadeglass_dataset/train/facade_578.jpg
+/home/monielly/facadeglass_dataset/train/facade- (90).png
+/home/monielly/facadeglass_dataset/train/facade- (513).png
+/home/monielly/facadeglass_dataset/train/facade_148.jpg
+/home/monielly/facadeglass_dataset/train/facade_728.jpg
+/home/monielly/facadeglass_dataset/train/facade- (86).png
+/home/monielly/facadeglass_dataset/train/facade- (634).png
+/home/monielly/facadeglass_dataset/train/facade_538.jpg
+/home/monielly/facadeglass_dataset/train/facade_808.jpg
+/home/monielly/facadeglass_dataset/train/facade_546.jpg
+/home/monielly/facadeglass_dataset/train/facade_278.jpg
+/home/monielly/facadeglass_dataset/train/facade_290.jpg
+/home/monielly/facadeglass_dataset/train/facade- (432).png
+/home/monielly/facadeglass_dataset/train/facade_174.jpg
+/home/monielly/facadeglass_dataset/train/facade_141.jpg
+/home/monielly/facadeglass_dataset/train/facade_741.jpg
+/home/monielly/facadeglass_dataset/train/facade- (27).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade- (99).png
+/home/monielly/facadeglass_dataset/train/facade_119.jpg
+/home/monielly/facadeglass_dataset/train/facade_397.jpg
+/home/monielly/facadeglass_dataset/train/aug_10_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade- (700).png
+/home/monielly/facadeglass_dataset/train/aug_6_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade_694.jpg
+/home/monielly/facadeglass_dataset/train/facade_118.jpg
+/home/monielly/facadeglass_dataset/train/facade_229.jpg
+/home/monielly/facadeglass_dataset/train/facade- (361).png
+/home/monielly/facadeglass_dataset/train/facade- (372).png
+/home/monielly/facadeglass_dataset/train/facade- (564).png
+/home/monielly/facadeglass_dataset/train/facade_524.jpg
+/home/monielly/facadeglass_dataset/train/facade- (587).png
+/home/monielly/facadeglass_dataset/train/aug_4_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade- (546).png
+/home/monielly/facadeglass_dataset/train/facade- (93).png
+/home/monielly/facadeglass_dataset/train/facade- (672).png
+/home/monielly/facadeglass_dataset/train/facade- (721).png
+/home/monielly/facadeglass_dataset/train/facade- (436).png
+/home/monielly/facadeglass_dataset/train/facade- (280).png
+/home/monielly/facadeglass_dataset/train/facade- (694).png
+/home/monielly/facadeglass_dataset/train/facade- (148).png
+/home/monielly/facadeglass_dataset/train/facade- (514).png
+/home/monielly/facadeglass_dataset/train/aug_7_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade_274.jpg
+/home/monielly/facadeglass_dataset/train/facade_162.jpg
+/home/monielly/facadeglass_dataset/train/facade_802.jpg
+/home/monielly/facadeglass_dataset/train/facade- (725).png
+/home/monielly/facadeglass_dataset/train/facade_682.jpg
+/home/monielly/facadeglass_dataset/train/facade_589.jpg
+/home/monielly/facadeglass_dataset/train/facade_249.jpg
+/home/monielly/facadeglass_dataset/train/facade- (414).png
+/home/monielly/facadeglass_dataset/train/facade_557.jpg
+/home/monielly/facadeglass_dataset/train/facade- (638).png
+/home/monielly/facadeglass_dataset/train/facade- (740).png
+/home/monielly/facadeglass_dataset/train/facade- (443).png
+/home/monielly/facadeglass_dataset/train/facade_676.jpg
+/home/monielly/facadeglass_dataset/train/facade- (47).png
+/home/monielly/facadeglass_dataset/train/aug_8_facade_68.jpg
+/home/monielly/facadeglass_dataset/train/facade_404.jpg
+/home/monielly/facadeglass_dataset/train/facade_41.jpg
+/home/monielly/facadeglass_dataset/train/facade_342.jpg
+/home/monielly/facadeglass_dataset/train/facade_750.jpg
+/home/monielly/facadeglass_dataset/train/facade- (295).png
+/home/monielly/facadeglass_dataset/train/facade_782.jpg
+/home/monielly/facadeglass_dataset/train/facade_130.jpg
+/home/monielly/facadeglass_dataset/train/facade- (427).png
+/home/monielly/facadeglass_dataset/train/facade- (483).png
+/home/monielly/facadeglass_dataset/train/facade- (229).png
+/home/monielly/facadeglass_dataset/train/facade- (167).png
+/home/monielly/facadeglass_dataset/train/facade_450.jpg
+/home/monielly/facadeglass_dataset/train/facade_267.jpg
+/home/monielly/facadeglass_dataset/train/facade- (51).png
+/home/monielly/facadeglass_dataset/train/aug_5_facade_309.jpg
+/home/monielly/facadeglass_dataset/train/facade- (487).png
+/home/monielly/facadeglass_dataset/train/facade_497.jpg
+/home/monielly/facadeglass_dataset/train/facade- (222).png
+/home/monielly/facadeglass_dataset/train/facade- (459).png
+/home/monielly/facadeglass_dataset/train/facade- (264).png
+/home/monielly/facadeglass_dataset/train/facade- (232).png
+/home/monielly/facadeglass_dataset/train/facade- (707).png
+/home/monielly/facadeglass_dataset/train/aug_10_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade- (468).png
+/home/monielly/facadeglass_dataset/train/aug_10_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade_747.jpg
+/home/monielly/facadeglass_dataset/train/facade- (114).png
+/home/monielly/facadeglass_dataset/train/facade_600.jpg
+/home/monielly/facadeglass_dataset/train/facade_427.jpg
+/home/monielly/facadeglass_dataset/train/facade_552.jpg
+/home/monielly/facadeglass_dataset/train/facade_572.jpg
+/home/monielly/facadeglass_dataset/train/facade_30.jpg
+/home/monielly/facadeglass_dataset/train/facade_667.jpg
+/home/monielly/facadeglass_dataset/train/facade_194.jpg
+/home/monielly/facadeglass_dataset/train/facade_399.jpg
+/home/monielly/facadeglass_dataset/train/facade_438.jpg
+/home/monielly/facadeglass_dataset/train/facade_52.jpg
+/home/monielly/facadeglass_dataset/train/facade- (38).png
+/home/monielly/facadeglass_dataset/train/facade_788.jpg
+/home/monielly/facadeglass_dataset/train/facade- (595).png
+/home/monielly/facadeglass_dataset/train/facade_549.jpg
+/home/monielly/facadeglass_dataset/train/facade_533.jpg
+/home/monielly/facadeglass_dataset/train/facade_347.jpg
+/home/monielly/facadeglass_dataset/train/facade- (742).png
+/home/monielly/facadeglass_dataset/train/aug_2_facade_960.jpg
+/home/monielly/facadeglass_dataset/train/facade- (485).png
+/home/monielly/facadeglass_dataset/train/facade- (611).png
+/home/monielly/facadeglass_dataset/train/facade- (373).png
+/home/monielly/facadeglass_dataset/train/facade_116.jpg
+/home/monielly/facadeglass_dataset/train/facade_368.jpg
+/home/monielly/facadeglass_dataset/train/facade- (292).png
+/home/monielly/facadeglass_dataset/train/facade_455.jpg
+/home/monielly/facadeglass_dataset/train/facade- (727).png
+/home/monielly/facadeglass_dataset/train/facade_82.jpg
+/home/monielly/facadeglass_dataset/train/facade_293.jpg
+/home/monielly/facadeglass_dataset/train/facade- (181).png
+/home/monielly/facadeglass_dataset/train/facade_562.jpg
+/home/monielly/facadeglass_dataset/train/facade- (622).png
+/home/monielly/facadeglass_dataset/train/facade_238.jpg
+/home/monielly/facadeglass_dataset/train/facade- (352).png
+/home/monielly/facadeglass_dataset/train/facade- (314).png
+/home/monielly/facadeglass_dataset/train/facade_665.jpg
+/home/monielly/facadeglass_dataset/train/facade_215.jpg
+/home/monielly/facadeglass_dataset/train/facade_441.jpg
+/home/monielly/facadeglass_dataset/train/facade- (11).png
+/home/monielly/facadeglass_dataset/train/aug_4_facade_231.jpg
+/home/monielly/facadeglass_dataset/train/facade_584.jpg
+/home/monielly/facadeglass_dataset/train/facade_282.jpg
+/home/monielly/facadeglass_dataset/train/facade- (367).png
+/home/monielly/facadeglass_dataset/train/facade_760.jpg
+/home/monielly/facadeglass_dataset/train/facade_779.jpg
+/home/monielly/facadeglass_dataset/train/facade- (360).png
+/home/monielly/facadeglass_dataset/train/facade- (124).png
+/home/monielly/facadeglass_dataset/train/facade- (72).png
+/home/monielly/facadeglass_dataset/train/facade_99.jpg
+/home/monielly/facadeglass_dataset/train/facade_34.jpg
+/home/monielly/facadeglass_dataset/train/aug_2_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/facade- (345).png
+/home/monielly/facadeglass_dataset/train/facade_805.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_366.jpg
+/home/monielly/facadeglass_dataset/train/facade- (62).png
+/home/monielly/facadeglass_dataset/train/facade- (476).png
+/home/monielly/facadeglass_dataset/train/facade_171.jpg
+/home/monielly/facadeglass_dataset/train/facade_761.jpg
+/home/monielly/facadeglass_dataset/train/facade_164.jpg
+/home/monielly/facadeglass_dataset/train/facade_367.jpg
+/home/monielly/facadeglass_dataset/train/facade- (20).png
+/home/monielly/facadeglass_dataset/train/facade_662.jpg
+/home/monielly/facadeglass_dataset/train/facade_332.jpg
+/home/monielly/facadeglass_dataset/train/facade_335.jpg
+/home/monielly/facadeglass_dataset/train/aug_6_facade_988.jpg
+/home/monielly/facadeglass_dataset/train/facade_236.jpg
+/home/monielly/facadeglass_dataset/train/facade_333.jpg
+/home/monielly/facadeglass_dataset/train/facade_173.jpg
+/home/monielly/facadeglass_dataset/train/facade_60.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_569.jpg
+/home/monielly/facadeglass_dataset/train/aug_8_facade_630.jpg
+/home/monielly/facadeglass_dataset/train/facade_221.jpg
+/home/monielly/facadeglass_dataset/train/facade- (371).png
+/home/monielly/facadeglass_dataset/train/facade- (196).png
+/home/monielly/facadeglass_dataset/train/facade_502.jpg
+/home/monielly/facadeglass_dataset/train/facade- (315).png
+/home/monielly/facadeglass_dataset/train/aug_9_facade_862.jpg
+/home/monielly/facadeglass_dataset/train/facade_369.jpg
+/home/monielly/facadeglass_dataset/train/facade- (422).png
+/home/monielly/facadeglass_dataset/train/facade- (363).png
+/home/monielly/facadeglass_dataset/train/facade- (301).png
+/home/monielly/facadeglass_dataset/train/facade_71.jpg
+/home/monielly/facadeglass_dataset/train/facade_771.jpg
+/home/monielly/facadeglass_dataset/train/facade- (107).png
+/home/monielly/facadeglass_dataset/train/facade_652.jpg
+/home/monielly/facadeglass_dataset/train/facade- (351).png
+/home/monielly/facadeglass_dataset/train/facade_523.jpg
+/home/monielly/facadeglass_dataset/train/facade- (160).png
+/home/monielly/facadeglass_dataset/train/facade_653.jpg
+/home/monielly/facadeglass_dataset/train/facade- (209).png
+/home/monielly/facadeglass_dataset/train/facade_102.jpg
+/home/monielly/facadeglass_dataset/train/facade- (701).png
+/home/monielly/facadeglass_dataset/train/facade_495.jpg
+/home/monielly/facadeglass_dataset/train/facade_245.jpg
+/home/monielly/facadeglass_dataset/train/aug_3_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade_612.jpg
+/home/monielly/facadeglass_dataset/train/facade_150.jpg
+/home/monielly/facadeglass_dataset/train/facade_98.jpg
+/home/monielly/facadeglass_dataset/train/facade_298.jpg
+/home/monielly/facadeglass_dataset/train/facade- (308).png
+/home/monielly/facadeglass_dataset/train/aug_10_facade_402.jpg
+/home/monielly/facadeglass_dataset/train/facade_484.jpg
+/home/monielly/facadeglass_dataset/train/facade_108.jpg
+/home/monielly/facadeglass_dataset/train/facade- (163).png
+/home/monielly/facadeglass_dataset/train/facade- (81).png
+/home/monielly/facadeglass_dataset/train/aug_0_facade_226.jpg
+/home/monielly/facadeglass_dataset/train/facade- (410).png
+/home/monielly/facadeglass_dataset/train/aug_6_facade_340.jpg
+/home/monielly/facadeglass_dataset/train/facade- (504).png
+/home/monielly/facadeglass_dataset/train/facade- (284).png
+/home/monielly/facadeglass_dataset/train/facade_57.jpg
+/home/monielly/facadeglass_dataset/train/facade- (9).png
+/home/monielly/facadeglass_dataset/train/facade_376.jpg
+/home/monielly/facadeglass_dataset/train/facade- (533).png
+/home/monielly/facadeglass_dataset/train/facade_107.jpg
+/home/monielly/facadeglass_dataset/train/facade- (453).png
+/home/monielly/facadeglass_dataset/train/facade- (491).png
+/home/monielly/facadeglass_dataset/train/facade- (426).png
+/home/monielly/facadeglass_dataset/train/aug_9_facade_900.jpg

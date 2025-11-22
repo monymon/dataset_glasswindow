@@ -1,0 +1,55 @@
+YOLOv12
+
+yolo detect train data=/home/monymon/facadeglass_dataset/data.yaml model=yolov12s.pt epochs=100 
+
+yolo task=detect mode=predict model=yolo12n.pt source=/home/monielly/Downloads/dog.jpg
+
+yolo detect predict model=runs/detect/train/weights/best.pt source=/caminho/para/imagens
+
+yolo detect val model=runs/detect/train/weights/best.pt data=/home/monielly/facadeglass_dataset/data.yaml 
+
+
+
+YOLOv11
+
+yolo task=detect mode=train model=yolo11n.pt data=/home/monielly/facadeglass_dataset/data.yaml epochs=100
+
+yolo predict model=yolo11n.pt source='https://ultralytics.com/images/bus.jpg'
+
+
+
+YOLOv10
+
+yolo detect train data=/home/monielly/facadeglass_dataset/data.yaml model=yolov10n.yaml epochs=5
+
+
+
+YOLOv2
+
+./darknet detector train data/obj.data cfg/yolov2.cfg darknet19_448.conv.23
+
+wget https://pjreddie.com/media/files/darknet19_448.com.23
+
+
+YOLOv9
+conda create -n yolov9_virtual python=3.8 -y
+python train_dual.py --workers 8 --device 0 --batch 16 --data /home/monielly/facadeglass_dataset/data.yaml 
+--img 640 --cfg models/detect/yolov9-c.yaml --weights '' --name yolov9-c --hyp hyp.scratch-high.yaml 
+--min-items 0 --epochs 500 --close-mosaic 15
+
+
+YOLOv8
+conda create -n yolov9_virtual python=3.8 -y
+yolo detect train data=/home/monielly/facadeglass_dataset/data.yaml model=yolov8n.pt epochs=100
+
+
+YOLOv6 (não deu certo)
+conda create -n yolov9_virtual python=3.8 -y
+python tools/train.py --batch 32 --conf configs/yolov6s_finetune.py --data /home/monielly/facadeglass_dataset/data.yaml --fuse_ab --device 0
+python tools/eval.py --data /home/monielly/facadeglass_dataset/data.yaml --batch 8 --weights yolov6s.pt --task val --reproduce_640_eval
+
+
+YOLOv5
+python train.py --img 640 --batch 16 --epochs 100 --data /home/monielly/facadeglass_dataset/data.yaml --weights yolov5s.pt
+
+

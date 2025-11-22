@@ -1,0 +1,6 @@
+Glass Window
+Pillar
+Wall
+Person
+Door
+Car

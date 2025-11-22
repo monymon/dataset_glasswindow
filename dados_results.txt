@@ -1,0 +1,282 @@
+YOLOv5
+ python train.py --img 640 --batch 16 --epochs 1000 --data /home/monielly/facadeglass_dataset/data.yaml --weights yolov5s.pt --hyp /home/monielly/yolov5/data/hyps/hyp.scratch-low.yaml
+
+
+yperparameters: lr0=0.00261, lrf=0.01, momentum=0.937, weight_decay=0.0005, warmup_epochs=3.0, warmup_momentum=0.8, warmup_bias_lr=0.1, box=0.05, cls=0.5, 
+cls_pw=1.0, obj=1.0, obj_pw=1.0, iou_t=0.2, anchor_t=4.0, fl_gamma=0.0, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, degrees=0.0, translate=0.1, scale=0.5, shear=0.0, 
+perspective=0.0, flipud=0.0, fliplr=0.5, mosaic=1.0, mixup=0.0, copy_paste=0.0
+
+Stopping training early as no improvement observed in last 100 epochs. Best results observed at epoch 176, best model saved as best.pt.
+To update EarlyStopping(patience=100) pass a new patience value, i.e. `python train.py --patience 300` or use `--patience 0` to disable EarlyStopping.
+
+277 epochs completed in 2.551 hours.
+Optimizer stripped from runs/train/exp14/weights/last.pt, 14.6MB
+Optimizer stripped from runs/train/exp14/weights/best.pt, 14.6MB
+
+Validating runs/train/exp14/weights/best.pt...
+Fusing layers... 
+Model summary: 229 layers, 7121811 parameters, 0 gradients, 16.0 GFLOPs
+                 Class     Images  Instances          P          R      mAP50   mAP50-95:  43%|████▎     | 3/7 [00:06<00:09,  2.31s/WARNING ⚠️ NMS time limit 2.100s exceeded
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 7/7 [00:11<00:00,  1.59s/
+                   all        219       9637      0.759      0.411      0.427       0.27
+          glass window        219       9543      0.842      0.694      0.753      0.553
+                pillar        219         12          1          0          0          0
+                  wall        219         16      0.704      0.299       0.24      0.144
+                person        219         20      0.687        0.5      0.504      0.244
+                  door        219         28       0.56       0.25       0.28      0.208
+                   car        219         18      0.763      0.722      0.786      0.471
+Results saved to runs/train/exp14
+
+
+YOLOv8 
+yolo detect train data=/home/monielly/facadeglass_dataset/data.yaml model=yolov8n.pt epochs=1000 lr0=0.00261
+
+ agnostic_nms=False, amp=True, augment=False, auto_augment=randaugment, batch=16, bgr=0.0, box=7.5, cache=False, cfg=None, classes=None, close_mosaic=10, cls=0.5, 
+ conf=None, copy_paste=0.0, copy_paste_mode=flip, cos_lr=False, cutmix=0.0, data=/home/monielly/facadeglass_dataset/data.yaml, degrees=0.0, deterministic=True, 
+ device=cuda:0, dfl=1.5, dnn=False, dropout=0.0, dynamic=False, embed=None, epochs=1000, erasing=0.4, exist_ok=False, fliplr=0.5, flipud=0.0, format=torchscript, 
+ fraction=1.0, freeze=None, half=False, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, imgsz=640, int8=False, iou=0.7, keras=False, kobj=1.0, line_width=None, lr0=0.00261, 
+ lrf=0.01, mask_ratio=4, max_det=300, mixup=0.0, mode=train, model=yolov8n.pt, momentum=0.937, mosaic=1.0, multi_scale=False, name=train5, nbs=64, nms=False, 
+ opset=None, optimize=False, optimizer=auto, overlap_mask=True, patience=100, perspective=0.0, plots=True, pose=12.0, pretrained=True, profile=False, project=None, 
+ rect=False, resume=False, retina_masks=False, save=True, save_conf=False, save_crop=False, save_dir=runs/detect/train5, save_frames=False, save_json=False, 
+ save_period=-1, save_txt=False, scale=0.5, seed=0, shear=0.0, show=False, show_boxes=True, show_conf=True, show_labels=True, simplify=True, single_cls=False, 
+ source=None, split=val, stream_buffer=False, task=detect, time=None, tracker=botsort.yaml, translate=0.1, val=True, verbose=True, vid_stride=1, visualize=False, 
+ warmup_bias_lr=0.1, warmup_epochs=3.0, warmup_momentum=0.8, weight_decay=0.0005, workers=8, workspace=None
+Overriding model.yaml nc=80 with nc=6
+
+
+455 epochs completed in 3.060 hours.
+Optimizer stripped from runs/detect/train5/weights/last.pt, 6.3MB
+Optimizer stripped from runs/detect/train5/weights/best.pt, 6.3MB
+
+Validating runs/detect/train5/weights/best.pt...
+Ultralytics 8.3.127 🚀 Python-3.8.20 torch-2.4.1+cu121 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+Model summary (fused): 72 layers, 3,006,818 parameters, 0 gradients, 8.1 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 7/7 [00:08<00:00,  1.24s/it]
+                   all        219       9637      0.581      0.392       0.45      0.288
+          glass window        216       9543      0.798       0.69      0.768       0.58
+                pillar          4         12      0.546      0.417      0.477      0.296
+                  wall          9         16      0.248      0.124      0.079     0.0667
+                person         13         20      0.658        0.2      0.329      0.195
+                  door         27         28      0.484      0.369        0.4      0.261
+                   car         16         18      0.753      0.556      0.644      0.331
+Speed: 0.1ms preprocess, 0.9ms inference, 0.0ms loss, 0.7ms postprocess per image
+Results saved to runs/detect/train5
+
+
+YOLOv9
+ /home/monielly/yolov5/data/hyps/hyp.scratch-low.yaml
+python train_dual.py --workers 8 --device 0 --batch 16 --data /home/monielly/facadeglass_dataset/data.yaml  --img 640 --cfg models/detect/yolov9-c.yaml --weights '' --name yolov9-c --hyp hyp.scratch-high.yaml --min-items 0 --epochs 1000
+
+train_dual: weights=, cfg=models/detect/yolov9-c.yaml, data=/home/monielly/facadeglass_dataset/data.yaml, hyp=hyp.scratch-high.yaml, epochs=1000, batch_size=16, imgsz=640, rect=False, resume=False, nosave=False, noval=False, noautoanchor=False, noplots=False, evolve=None, bucket=, cache=None, image_weights=False, device=0, multi_scale=False, single_cls=False, optimizer=SGD, sync_bn=False, workers=8, project=runs/train, name=yolov9-c, exist_ok=False, quad=False, cos_lr=False, flat_cos_lr=False, fixed_lr=False, label_smoothing=0.0, patience=100, freeze=[0], save_period=-1, seed=0, local_rank=-1, min_items=0, close_mosaic=0, entity=None, upload_dataset=False, bbox_interval=-1, artifact_alias=latest
+YOLO 🚀 v0.1-104-g5b1ea9a Python-3.8.20 torch-2.4.1+cu121 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+
+hyperparameters: lr0=0.00261, lrf=0.01, momentum=0.937, weight_decay=0.0005, warmup_epochs=3.0, warmup_momentum=0.8, warmup_bias_lr=0.1, box=7.5, cls=0.5, cls_pw=1.0, obj=0.7, obj_pw=1.0, dfl=1.5, iou_t=0.2, anchor_t=5.0, fl_gamma=0.0, hsv_h=0.015, hsv_s=0.7, hsv_v=0.4, degrees=0.0, translate=0.1, scale=0.9, shear=0.0, perspective=0.0, flipud=0.0, fliplr=0.5, mosaic=1.0, mixup=0.15, copy_paste=0.3
+
+
+
+YOLOv5
+
+277 epochs completed in 2.549 hours.
+Optimizer stripped from runs/train/exp17/weights/last.pt, 14.6MB
+Optimizer stripped from runs/train/exp17/weights/best.pt, 14.6MB
+
+Validating runs/train/exp17/weights/best.pt...
+Fusing layers... 
+Model summary: 229 layers, 7121811 parameters, 0 gradients, 16.0 GFLOPs
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 7/7 [00:1
+                   all        219       9637      0.741      0.452      0.478      0.299
+          glass window        219       9543      0.844        0.7      0.761      0.558
+                pillar        219         12      0.882       0.25      0.288       0.16
+                  wall        219         16      0.701      0.296      0.239      0.144
+                person        219         20      0.692        0.5      0.503      0.243
+                  door        219         28      0.563       0.25       0.29      0.216
+                   car        219         18      0.764      0.719      0.786      0.471
+Results saved to runs/train/exp17
+
+
+YOLOv8
+455 epochs completed in 3.064 hours.
+Optimizer stripped from runs/detect/train7/weights/last.pt, 6.3MB
+Optimizer stripped from runs/detect/train7/weights/best.pt, 6.3MB
+
+Validating runs/detect/train7/weights/best.pt...
+Ultralytics 8.3.127 🚀 Python-3.8.20 torch-2.4.1+cu121 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+Model summary (fused): 72 layers, 3,006,818 parameters, 0 gradients, 8.1 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 7/7 [00:08<00:00,  1.26s/it]
+                   all        219       9637      0.581      0.392       0.45      0.288
+          glass window        216       9543      0.798       0.69      0.768       0.58
+                pillar          4         12      0.546      0.417      0.477      0.296
+                  wall          9         16      0.248      0.124      0.079     0.0667
+                person         13         20      0.658        0.2      0.329      0.195
+                  door         27         28      0.484      0.369        0.4      0.261
+                   car         16         18      0.753      0.556      0.644      0.331
+Speed: 0.1ms preprocess, 0.9ms inference, 0.0ms loss, 0.8ms postprocess per image
+Results saved to runs/detect/train7
+
+
+YOLOv11
+597 epochs completed in 4.227 hours.
+Optimizer stripped from runs/detect/train19/weights/last.pt, 5.5MB
+Optimizer stripped from runs/detect/train19/weights/best.pt, 5.5MB
+
+Validating runs/detect/train19/weights/best.pt...
+Ultralytics 8.3.113 🚀 Python-3.11.11 torch-2.6.0+cu124 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+YOLO11n summary (fused): 100 layers, 2,583,322 parameters, 0 gradients, 6.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 7/7 [00:07<00:00, 
+                   all        219       9637       0.56      0.409      0.432      0.298
+          glass window        216       9543       0.76      0.728      0.777      0.589
+                pillar          4         12      0.538        0.5      0.476      0.316
+                  wall          9         16     0.0747     0.0625      0.125      0.108
+                person         13         20      0.933       0.15      0.193      0.101
+                  door         27         28      0.538      0.458      0.492      0.354
+                   car         16         18      0.514      0.556      0.527      0.321
+Speed: 0.2ms preprocess, 0.9ms inference, 0.0ms loss, 0.6ms postprocess per image
+Results saved to runs/detect/train19
+
+
+YOLOv9 
+
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 28/28 00:03
+                   all        219       9637      0.466      0.374      0.365      0.219
+          glass window        219       9543      0.772      0.739      0.758       0.55
+                pillar        219         12      0.496      0.417       0.37      0.165
+                  wall        219         16      0.103      0.125     0.0908     0.0704
+                person        219         20      0.649       0.05      0.155     0.0535
+                  door        219         28      0.388      0.357      0.355      0.247
+                   car        219         18      0.391      0.556      0.462       0.23
+Results saved to runs/train/yolov9-c22
+
+
+YOLOv10
+364 epochs completed in 5.770 hours.
+Optimizer stripped from /home/monielly/yolov10/runs/detect/train20/weights/last.pt, 5.8MB
+Optimizer stripped from /home/monielly/yolov10/runs/detect/train20/weights/best.pt, 5.8MB
+
+Validating /home/monielly/yolov10/runs/detect/train20/weights/best.pt...
+Ultralytics YOLOv8.1.34 🚀 Python-3.9.21 torch-2.0.1+cu117 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+YOLOv10n summary (fused): 285 layers, 2696756 parameters, 0 gradients, 8.2 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 28/28 [00:04<00:00,  6.89it/s]
+                   all        219       9637      0.459      0.347      0.266       0.18
+          glass window        219       9543      0.683      0.789      0.767       0.56
+                pillar        219         12      0.165      0.333       0.25      0.122
+                  wall        219         16      0.518      0.125      0.191      0.159
+                person        219         20          1          0     0.0226    0.00924
+                  door        219         28       0.26      0.393      0.233      0.165
+                   car        219         18      0.126      0.444      0.131     0.0648
+Speed: 0.3ms preprocess, 10.2ms inference, 0.0ms loss, 0.2ms postprocess per image
+Results saved to /home/monielly/yolov10/runs/detect/train20
+💡 Learn more at https://docs.ultralytics.com/modes/train
+
+
+yolov12s500 epochs completed in 13.343 hours.
+Optimizer stripped from /home/monielly/yolov12/runs/detect/train16/weights/last.pt, 18.7MB
+Optimizer stripped from /home/monielly/yolov12/runs/detect/train16/weights/best.pt, 18.7MB
+
+Validating /home/monielly/yolov12/runs/detect/train16/weights/best.pt...
+Ultralytics 8.3.63 🚀 Python-3.11.11 torch-2.2.2+cu121 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+YOLOv12s summary (fused): 376 layers, 9,076,530 parameters, 0 gradients, 19.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 28/28 [00:05<00:00,  5.53it/s]
+                   all        219       9637      0.585      0.476      0.491      0.322
+          glass window        216       9543      0.798      0.707       0.79      0.606
+                pillar          4         12      0.567      0.417      0.425      0.296
+                  wall          9         16       0.19       0.25      0.167      0.131
+                person         13         20      0.887        0.4      0.438      0.225
+                  door         27         28      0.419      0.464      0.432      0.262
+                   car         16         18       0.65       0.62      0.692      0.411
+Speed: 0.2ms preprocess, 5.1ms inference, 0.0ms loss, 10.8ms postprocess per image
+Results saved to /home/monielly/yolov12/runs/detect/train16
+💡 Learn more at https://docs.ultralytics.com/modes/train
+
+
+754 epochs completed in 19.932 hours.
+Optimizer stripped from /home/monielly/yolov12/runs/detect/train17/weights/last.pt, 18.7MB
+Optimizer stripped from /home/monielly/yolov12/runs/detect/train17/weights/best.pt, 18.7MB
+
+Validating /home/monielly/yolov12/runs/detect/train17/weights/best.pt...
+Ultralytics 8.3.63 🚀 Python-3.11.11 torch-2.2.2+cu121 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+YOLOv12s summary (fused): 376 layers, 9,076,530 parameters, 0 gradients, 19.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 28/28 [00:05<00:00,  5.57it/s]
+                   all        219       9637      0.511      0.523      0.486      0.334
+          glass window        216       9543      0.741      0.796      0.799      0.612
+                pillar          4         12      0.375        0.5      0.482      0.337
+                  wall          9         16      0.156      0.375      0.119      0.105
+                person         13         20      0.713       0.35      0.457      0.242
+                  door         27         28      0.403      0.531      0.432      0.299
+                   car         16         18      0.679      0.589      0.628       0.41
+Speed: 0.1ms preprocess, 6.7ms inference, 0.0ms loss, 9.0ms postprocess per image
+Results saved to /home/monielly/yolov12/runs/detect/train17
+💡 Learn more at https://docs.ultralytics.com/modes/train
+
+
+
+1004 epochs completed in 26.125 hours.
+Optimizer stripped from /home/monielly/yolov12/runs/detect/train18/weights/last.pt, 18.7MB
+Optimizer stripped from /home/monielly/yolov12/runs/detect/train18/weights/best.pt, 18.7MB
+
+Validating /home/monielly/yolov12/runs/detect/train18/weights/best.pt...
+Ultralytics 8.3.63 🚀 Python-3.11.11 torch-2.2.2+cu121 CUDA:0 (NVIDIA TITAN V, 12042MiB)
+YOLOv12s summary (fused): 376 layers, 9,076,530 parameters, 0 gradients, 19.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 28/28 [00:04<00:00,  5.61it/s]
+                   all        219       9637      0.511      0.523      0.486      0.334
+          glass window        216       9543      0.741      0.796      0.799      0.612
+                pillar          4         12      0.375        0.5      0.482      0.337
+                  wall          9         16      0.156      0.375      0.119      0.105
+                person         13         20      0.713       0.35      0.457      0.242
+                  door         27         28      0.403      0.531      0.432      0.299
+                   car         16         18      0.679      0.589      0.628       0.41
+Speed: 0.1ms preprocess, 5.4ms inference, 0.0ms loss, 1.8ms postprocess per image
+Results saved to /home/monielly/yolov12/runs/detect/train18
+💡 Learn more at https://docs.ultralytics.com/modes/train
+
+
+YOLOv7
+220
+ detections_count = 89086, unique_truth_count = 9637  
+class_id = 0, name = Glass Window, ap = 44.87%   	 (TP = 3403, FP = 1695) 
+class_id = 1, name = Pillar, ap = 0.05%   	 (TP = 0, FP = 0) 
+class_id = 2, name = Wall, ap = 0.10%   	 (TP = 0, FP = 0) 
+class_id = 3, name = Person, ap = 7.81%   	 (TP = 1, FP = 0) 
+class_id = 4, name = Door, ap = 2.35%   	 (TP = 0, FP = 0) 
+class_id = 5, name = Car, ap = 31.09%   	 (TP = 2, FP = 0) 
+
+ for conf_thresh = 0.25, precision = 0.67, recall = 0.35, F1-score = 0.46 
+ for conf_thresh = 0.25, TP = 3406, FP = 1695, FN = 6231, average IoU = 53.20 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.143811, or 14.38 % 
+Total Detection Time: 4 Seconds
+
+
+220
+ detections_count = 111628, unique_truth_count = 9637  
+class_id = 0, name = Glass Window, ap = 55.34%   	 (TP = 4703, FP = 2201) 
+class_id = 1, name = Pillar, ap = 0.20%   	 (TP = 0, FP = 0) 
+class_id = 2, name = Wall, ap = 8.90%   	 (TP = 1, FP = 1) 
+class_id = 3, name = Person, ap = 7.37%   	 (TP = 1, FP = 1) 
+class_id = 4, name = Door, ap = 8.12%   	 (TP = 0, FP = 2) 
+class_id = 5, name = Car, ap = 2.95%   	 (TP = 0, FP = 0) 
+
+ for conf_thresh = 0.25, precision = 0.68, recall = 0.49, F1-score = 0.57 
+ for conf_thresh = 0.25, TP = 4705, FP = 2205, FN = 4932, average IoU = 55.25 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.138151, or 13.82 % 
+Total Detection Time: 7 Seconds
+
+
+YOLOv3
+220
+ detections_count = 28483, unique_truth_count = 9637  
+class_id = 0, name = Glass Window, ap = 53.75%   	 (TP = 5221, FP = 2764) 
+class_id = 1, name = Pillar, ap = 2.75%   	 (TP = 0, FP = 1) 
+class_id = 2, name = Wall, ap = 9.15%   	 (TP = 2, FP = 3) 
+class_id = 3, name = Person, ap = 20.58%   	 (TP = 5, FP = 5) 
+class_id = 4, name = Door, ap = 15.25%   	 (TP = 5, FP = 14) 
+class_id = 5, name = Car, ap = 79.88%   	 (TP = 9, FP = 1) 
+
+ for conf_thresh = 0.25, precision = 0.65, recall = 0.54, F1-score = 0.59 
+ for conf_thresh = 0.25, TP = 5242, FP = 2788, FN = 4395, average IoU = 49.79 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.302250, or 30.22 % 
+Total Detection Time: 1 Seconds
